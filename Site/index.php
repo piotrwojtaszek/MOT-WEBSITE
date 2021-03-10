@@ -142,9 +142,6 @@ większej redukcji bólu i stresu u osób aktywnie grających podczas zabiegu 7 
                             <input class="mail" type="text" name="mail" placeholder="Your e-mail">
                         </div>
                         <div>
-                            <input class="mail" type="text" name="mail" placeholder="Your e-mail">
-                        </div>
-                        <div>
                             <textarea class="message" name="message" placeholder="Message"></textarea>
                         </div>
                         <div>
