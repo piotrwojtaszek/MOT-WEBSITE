@@ -52,9 +52,11 @@ ul.topnav li.right {
     height: auto;
     width: 100%;
 }
-
 .wrapper section{
     overflow: auto;
+}
+.wrapper section p{
+    font-size: 16px;
 }
 
 .wrapper section .section-title{
@@ -75,6 +77,11 @@ ul.topnav li.right {
 .wrapper section .div-left,.div-right
 {
     width: 50%;
+}
+.wrapper section .div-right .image1{
+    width: 100%;
+
+
 }
 
 @media screen and (max-width:800px)
