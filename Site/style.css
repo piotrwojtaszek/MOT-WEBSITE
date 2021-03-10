@@ -6,6 +6,13 @@
     font-family: 'Poppins', sans-serif;
 }
 
+ul {
+    z-index: 1;
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+
 ul.topnav {
     list-style-type: none;
     margin: 0;
@@ -35,8 +42,15 @@ ul.topnav li.right {
 }
 
 .wrapper{
-    padding-left: 50px;
-    padding-right: 50px;
+    padding-left: 5vw;
+    padding-right: 5vw;
+}
+
+.wrapper #videoBG{
+    z-index: -2;
+    opacity: 0.5;
+    height: auto;
+    width: 100%;
 }
 
 .wrapper section{
