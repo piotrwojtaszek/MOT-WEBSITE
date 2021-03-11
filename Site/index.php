@@ -28,6 +28,10 @@
             <video id="videoBG" autoplay muted loop>
                     <source src="media/vid/bgloop.mp4" type="video/mp4">
             </video>
+            <div class="centered">
+                <p>Magic Spheres</p>
+                <div></div>
+            </div>
         </div>
         <section id="idea">
             <h4 class="section-title">IDEA GRY</h4>
