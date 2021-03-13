@@ -25,7 +25,7 @@
 
     <div class="wrapper">
         <div class="vid">
-            <video id="videoBG" autoplay muted loop>
+            <video id="videoBG" playsinline autoplay muted loop>
                     <source src="media/vid/bgloop.mp4" type="video/mp4">
             </video>
             <div class="centered">
