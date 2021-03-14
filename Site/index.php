@@ -14,12 +14,12 @@
         <p>piowoj@piowoj.ct8.pl</p> 
     </div>
     <ul class="topnav">
-        <li><a href="#kontakt">Kontakt</a></li>
-        <li><a href="#zaufali">Zaufali nam</a></li>
-        <li><a href="#onas">O nas</a></li>
-        <li><a href="#dlaczego">Dlaczego warto</a></li>
-        <li><a href="#instrukcja">Instrukcja gry</a></li>
         <li><a href="#idea">Idea gry</a></li>
+        <li><a href="#instrukcja">Instrukcja gry</a></li>
+        <li><a href="#dlaczego">Dlaczego warto</a></li>
+        <li><a href="#onas">O nas</a></li>
+        <li><a href="#zaufali">Zaufali nam</a></li>
+        <li><a href="#kontakt">Kontakt</a></li>
     </ul>
 </div>
 
@@ -132,7 +132,7 @@ większej redukcji bólu i stresu u osób aktywnie grających podczas zabiegu 7 
         <section id="kontakt">
             <h4 class="section-title">KONTAKT</h4>
             <div class="div-left">
-                <h1>
+                <h1 class="napiszdonas">
                             NAPISZ DO NAS
                 </h1>
             </div>

@@ -14,7 +14,7 @@
     height: 25px;
     background-color: rgb(180, 180, 180);
     padding: 3px;
-    overflow: auto;
+    overflow: hidden;
 
 }
 .adreskontaktwy p{
@@ -50,22 +50,26 @@ ul.topnav li a:hover:not(.active) {
 }
 
 ul.topnav li.right {
-    float: right;
+    margin-right: 0px;
 }
 
 
 
 .wrapper #videoBG{
     z-index: -2;
-    height: auto;
+    height: 100%;
+    width: auto;
     filter: blur(2px) saturate(1.2);
-    width: 100%;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
 }
 
 .wrapper .vid{
     position: relative;
-    text-align: center;
-    text-align: -webkit-center;
+    /* text-align: center;
+    text-align: -webkit-center; */
+    overflow: hidden;
 }
 .wrapper .vid .centered{
     position: absolute;
@@ -101,7 +105,7 @@ ul.topnav li.right {
 .wrapper section{
     padding: 20px;
     overflow: auto;
-    margin: 50px 0px 50px 0;
+    margin: 50px 150px 50px 150px;
 }
 .wrapper section:nth-child(2n){
     background-color: rgb(255, 183, 213);
@@ -145,35 +149,47 @@ ul.topnav li.right {
 }
 @media screen and (max-width:800px)
 {
+    .wrapper section{
+        margin: 50px 0px 50px 0px;
+    }
+
     .wrapper section .div-left,.div-right{
         width: 100%;
         padding: 10px 0px 10px 0px;
     }
     .wrapper .vid .centered p{
-        height: 30px;
-        text-align: center;
-        font-size: 20px;
+        height: auto;
+        width: 200px;
+        font-size: 50px;
         font-weight: 900;
+        text-align:center;
         color: white;
         text-transform: uppercase;
     }
     .wrapper .vid .centered div{
         position: absolute;
         z-index: -1;
+        height: 200px;
+        width: 250px;
         top: 48%;
         left: 50%;
         transform: translate(-50%, -50%);
-        height: 50px;
-        width: 200px;
         margin: auto;
     }
-}
+    ul.topnav {
+        padding: 0px 0px 0px 0px;
+    }
 
-@media screen and (max-width: 800px) {
     ul.topnav li.right, 
     ul.topnav li {float: none;}
     .holder{
         position: relative;
     }
+}
+.wrapper section .div-left h1.napiszdonas{
+    float: right;
+    margin-right: 20px;
+}
 
+@media screen and (min-width: 800px) {
 }
