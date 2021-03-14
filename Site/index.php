@@ -26,7 +26,7 @@
     <div class="wrapper">
         <div class="vid">
             <video id="videoBG" playsinline autoplay muted loop>
-                    <source src="media/vid/bgloop.mp4" type="video/mp4">
+                    <source src="media/multi/bgloop.mp4" type="video/mp4">
             </video>
             <div class="centered">
                 <p>Magic Spheres</p>
@@ -139,14 +139,9 @@ i korzystnie wpłynąć na ich przyszłe nastawienie do zabiegów medycznych.
         </section>
         <section id="instrukcja">
             <h4 class="section-title">INSTRUKCJA GRY</h4>
-            <div class="div-left">
-                <p>
-                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corporis nobis est pariatur expedita repudiandae cumque unde quaerat, consequuntur sapiente. Dolorem veritatis molestiae eaque sed! Temporibus vitae totam eius nemo ratione tempore sunt fugiat autem. Et, ullam sunt cupiditate doloremque provident reprehenderit nam beatae, voluptatum praesentium illum ipsum fugit. Sunt, rerum.
-                </p>
-            </div>
-            <div class="div-right">
-                <img class="image1"src="media/img/screen1.png" alt="Screen">
-            </div>
+                <video class="vid-tutorial" playsinline autoplay muted loop>
+                        <source src="media/pl/Tutorial.mp4" type="video/mp4">
+                </video>
         </section>
         <section id="dlaczego">
             <h4 class="section-title">DLACZEGO WARTO</h4>
@@ -156,7 +151,7 @@ i korzystnie wpłynąć na ich przyszłe nastawienie do zabiegów medycznych.
                 </p>
             </div>
             <div class="div-right">
-                <img class="image1"src="media/img/screen1.png" alt="Screen">
+                <img class="image1"src="media/multi/screen1.png" alt="Screen">
             </div>
         </section>
         <section id="onas">

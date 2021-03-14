@@ -33,7 +33,7 @@ ul.topnav {
 }
 
 ul.topnav li {
-    float: right;
+    float: left;
 }
 
 ul.topnav li a {
@@ -57,9 +57,9 @@ ul.topnav li.right {
 
 .wrapper #videoBG{
     z-index: -2;
-    height: 100%;
+    height: 93vh;
     width: auto;
-    filter: blur(2px) saturate(1.2);
+    filter: blur(3px) saturate(1.2);
     position: relative;
     left: 50%;
     transform: translateX(-50%);
@@ -99,16 +99,13 @@ ul.topnav li.right {
     margin: auto;
     background-color: rgb(41, 41, 41);
     opacity: 0.45;
-    filter: blur(20px);
+    filter: blur(30px);
 }
 
 .wrapper section{
     padding: 20px;
     overflow: auto;
-    margin: 50px 150px 50px 150px;
-}
-.wrapper section:nth-child(2n){
-    /* background-color: rgb(255, 110, 171); */
+    margin: 50px 5vw 50px 5vw;
 }
 .wrapper section p{
     font-size: 16px;
@@ -146,6 +143,12 @@ ul.topnav li.right {
 .wrapper section p {
     text-justify: inter-word;
     text-align: justify;
+}
+
+.wrapper .vid-tutorial{
+    width: 80%;
+    display: block;
+    margin: 0 auto;
 }
 
 .wrapper section .div-right .kontakt-form div *{
