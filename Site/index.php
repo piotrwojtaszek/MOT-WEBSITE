@@ -64,6 +64,21 @@ jeszcze częściej w związku z pobieraniem krwi, zastrzykami czy wkłuciami do�
             </div>
             <div>
                 <h4>
+                METODY REDUKCJI BÓLU
+                </h4>
+                <p>
+                Ból i stres związany z zabiegami igłowymi można
+zmniejszać przy pomocy różnych metod. Spośród interwencji psychologicznych potwierdzono
+skuteczność w stosowaniu dystrakcji bólu (odwróceniu uwagi od bólu), hipnozy, połączenia technik
+relaksującego oddechu i innych technik pochodzących z terapii poznawczo-behawioralnej 4 . W
+przypadku planowych zabiegów z igłą zaleca się, aby każdemu dziecku zapewnić jednocześnie kilka
+różnych form obniżania bólu, takich jak: znieczulenie miejscowe, komfortową pozycję, dobrane do
+wieku odwrócenie uwagi oraz w przypadku niemowląt karmienie piersią lub podanie słodkiego płynu
+do picia np. z sacharozą 5 .
+                </p>
+            </div>
+            <div>
+                <h4>
                 BADANIA NAD REDUKCJĄ BÓLU W IPS VR4HEALTH LAB (co już wiemy z
 własnych badań)
                 </h4>
@@ -78,6 +93,47 @@ wirtualnej rzeczywistości (VR). W jednej dzieci aktywnie grały w analogiczną 
 oglądały film podobny do prezentowanej gry. Obie grupy VR zgłosiły istotnie mniejsze nasilenie bólu
 i stresu w porównaniu do grupy kontrolnej. Natomiast między grupami VR zauważono tendencję do
 większej redukcji bólu i stresu u osób aktywnie grających podczas zabiegu 7 .
+                </p>
+            </div>
+            <div>
+                <h4>
+                IDEA GRY
+                </h4>
+                <p>
+                Widząc efekty naszych badań i potencjał autorskiej gry w VR opracowaliśmy
+grę Magic Spheres, która stanowi odpowiedź na potrzeby leczenia bólu u dzieci podczas zabiegów
+igłowych. Naukowcy wciąż sprawdzają czy zastosowanie VR jest skuteczniejsze od stosowania
+innych technologii cyfrowych 8, 9 . Jednak przeciwbólową skuteczność - podczas procedur pobierania
+krwi -potwierdzono zarówno dla gier w VR 10, 11 , jak i przy użyciu innych technologii cyfrowych 12, 13 .
+Mając na celu możliwie najprostszą formę korzystania z gry, została ona zaprogramowana specjalnie
+do użytku na smartfonie czy tablecie, tak aby zarówno rodzice, jak i pracownicy służby zdrowia mieli
+do niej nieograniczony i niezależny dostęp.<br><br>
+W Magic Spheres wykorzystano mechanizm przeciwbólowego działania gry, który opiera się
+na odwróceniu uwagi dziecka od bodźców bólowych. Efekt przeciwbólowy jest tym silniejszy, im
+bardziej uwaga dziecka zaangażowana jest w bodźce, które odciągają uwagę od zabiegu. Aby osiągnąć
+ten cel, gra została opracowana w oparciu o wspomnianą już zasadę śledzenia wielu obiektów, która
+bardziej niż inne gry angażuje uwagę dziecka. Ta metoda różni się od większości innych, które zostały
+zastosowane do badania rozpraszania uwagi. Po pierwsze, wymaga ciągłej, nieprzerwanej uwagi, a nie
+krótkotrwałych przesunięć uwagi. Po drugie, wymaga jednoczesnego zwracania uwagi na wiele
+obiektów równocześnie 14 . Metoda śledzenia wielu obiektów została już przetestowana podczas badania
+uwagi w różnych grupach wiekowych, w tym u małych dzieci 15 .<br><br>
+Zaprojektowaliśmy grę w taki sposób, aby umożliwić jej zastosowanie dla dzieci w różnym
+wieku. Magic Spherespolega na zapamiętaniu kilku krótko migających elementów, a następnie
+odnalezieniu ich wśród innych poruszających się obiektów. Gra składa się z kilku scen, a każda scena
+ma inne tło i liczbę obiektów latających, aby z każdym poziomem podtrzymywać zainteresowanie
+dziecka i zwiększać szansę na odwrócenie uwagi od bólu.<br><br>
+Gra opracowana jest specyficznie pod kątem zastosowania jej podczas krótkotrwałego,
+bolesnego zabiegu, dlatego zachęcamy, żeby tylko do tych celów była stosowana: jako kilkuminutowe
+przećwiczenie gry bezpośrednio przed zabiegiem oraz przez kilka minut trwania zabiegu.
+Umożliwi to zachowanie efektu nowości i maksymalizację skupienia uwagi dziecka na
+wykonywanym w grze zadaniu – im lepiej dziecko opanuje grę, tym słabszy może być efekt jej
+działania w odwracaniu uwagi od bólu.<br><br>
+Przyświeca nam idea rozpowszechniania wyników badań na rzecz poprawy dobrostanu
+psychicznego dzieci, rodziców i pracowników służby zdrowia. Proponowana przez nas gra jest
+darmowa,dostępna do pobrania w sklepie Google Play (do zainstalowania w systemie Android).
+Korzystanie z gry nie wiąże się z udziałem w badaniu naukowym. Dla nas jako badaczy
+satysfakcjonująca jest świadomość, że gra może pomóc dzieciom przetrwać bolesne zabiegi medyczne
+i korzystnie wpłynąć na ich przyszłe nastawienie do zabiegów medycznych.
                 </p>
             </div>
         </section>

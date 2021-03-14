@@ -41,7 +41,7 @@ ul.topnav li a {
     color: white;
     text-align: center;
     padding: 14px 16px;
-    font-size: 15px;
+    font-size: 17px;
     text-decoration: none;
 }
 
@@ -108,7 +108,7 @@ ul.topnav li.right {
     margin: 50px 150px 50px 150px;
 }
 .wrapper section:nth-child(2n){
-    background-color: rgb(255, 183, 213);
+    /* background-color: rgb(255, 110, 171); */
 }
 .wrapper section p{
     font-size: 16px;
@@ -121,7 +121,9 @@ ul.topnav li.right {
 .wrapper section .section-title{
     text-align: center;
     margin-bottom: 20px;
-    font-size: 30px;
+    font-size: 50px;
+    font-weight: bold;
+    color: rgb(255, 110, 171);
 }
 
 .wrapper section .div-right{
@@ -139,6 +141,11 @@ ul.topnav li.right {
 }
 .wrapper section .div-right .image1{
     width: 100%;
+}
+
+.wrapper section p {
+    text-justify: inter-word;
+    text-align: justify;
 }
 
 .wrapper section .div-right .kontakt-form div *{
