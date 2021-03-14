@@ -195,6 +195,13 @@ ul.topnav li.right {
     .holder{
         position: relative;
     }
+
+    .wrapper section .section-title{
+        font-size: 30px;
+    }
+    .wrapper .vid-tutorial{
+        width: 100%;
+    }
 }
 .wrapper section .div-left h1.napiszdonas{
     float: right;
