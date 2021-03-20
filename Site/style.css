@@ -41,16 +41,13 @@ header{
     color: #82ccdd;
 }
 
-#section_0{
+#bg_loop{
     background-color: #0a3d62;
-    display: flex;
-    justify-items: center;
-    justify-content: center;
-    overflow: hidden;
+position: relative;
 }
-#section_0 video{
+#bg_loop video{
     height: 100vh;
-    opacity: 0.55;
+    opacity: 0.45;
     margin-top: 60px;
 }
 
@@ -63,55 +60,71 @@ header{
     background-color: #dce1f0;
     padding: 30px;
 }
-#section_1{
+
+.video_text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    min-width: 800px;
+    width: 50vw;
+    height: 100%;
     display: flex;
     flex-direction: column;
+    justify-content: center;
 }
 
+
+#section_1{
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    overflow: hidden;
+    color: white;
+}
 #section_1 h1{
-    font-size: 66px;
-    font-weight: 300;
+    font-size: 100px;
+    font-weight: 600;
     text-align: center;
 
 }
-#section_1 h4{
-    font-size: 35px;
-    font-weight: 300;
+#section_1 h2{
+    font-size: 55px;
+    font-weight: 400;
     text-align: center;
+    margin: 2vh 0px 8vh 0px;
 }
 #section_1 p{
-    margin-top: 20px;
     font-size: 20px;
-    font-weight: 300;
+    font-weight: 500;
     text-align: justify;
+    width: 100%;
+    margin-bottom: 50px;
 }
-#section_1 .download div{
+#section_1 .download{
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: space-evenly;
     align-content: center;
+    margin-top: 10px;
+    background-color: #0a3d6294;
+    border-radius: 15px;
+    font-weight: 400;
+    padding: 0px;
+    margin: 0 10vw 20px 0;
 }
 
 #section_1 .button-text {
-    align-items: center;
-    font-size: auto;
-    background-color: #0a3d62;
-    max-width: 300px;
-    min-width: 150px;
-    width: 40vw;
-    border-radius: 15px;
-    margin: 20px 0px;
-}
-#section_1 .button-text p{
-    margin: 0;
-    padding: 0px 0px;
     font-size: 25px;
-    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
 #section_1 .button{
-    max-width: 300px;
+    max-width: 350px;
     min-width: 150px;
-    width: 40vw;
+    width: 45vw;
 }
 
 #section_2{
@@ -138,8 +151,33 @@ header{
     header{
         display: none;
     }
-    #section_1 .button-text p{
-        font-size: 3vw;
+    .video_text{
+        width: 95vw;
+        min-width: 100px;
+
+    }
+
+    #section_1 h1{
+        font-size: 45px;
+        font-weight: 500;
+        text-align: center;
+    
+    }
+    #section_1 h2{
+        font-size: 32px;
+        font-weight: 400;
+    }
+    #section_1 p{
+        font-size: 18px;
+        font-weight: 300;
+    }
+
+    #section_1 .button-text{
+        font-size: 16px;
+    }
+
+    #section_1 .download{
+        margin: 0 0 20px 0;
     }
 }
 

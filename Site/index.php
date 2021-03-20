@@ -3,7 +3,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
     
     <title>Document</title>
@@ -21,32 +21,37 @@
             <li><a href="#section_7">Kontakt</a></li>
         </nav>
     </header>
-    <section id="section_0">
-            <video class="bg_loop" playsinline autoplay muted loop>
-                        <source src="media/multi/gameplay_loop.mp4" type="video/mp4">
-                </video>
-        </section>  
-    <div class="wrapper">
-        <section id="section_1">
-            <h1>MAGIC SPHERES</h1>
-            <h4>gra rozpraszająca uwagę dziecka</h4>
-            <p>
-            Pomóż dziecku podczas zabiegu z nakłuciem igłą! Zmień nastawienie dziecka do zabiegów medycznych! Możesz użyć do tego swojego smartfona już kilka minut przed zabiegiem i w trakcie zabiegu nakłucia igłą. Aplikacja <b>Magic Spheres</b> ma pięć scenerii i kilka poziomów trudności, które<b> zaprojektowano, aby odwrócić uwagę dziecka od bólu. </b>
-Pobierz aplikację Magic Spheres i <b>sprawdź, jak rozproszenie uwagi dziecka od ukłucia igłą, zmniejsza jego ból i stres. </b>
-            </p>
-            <div class="download">
-                <div>
-                    <div class="button-text">
-                            <p><b>Pobierz pełną wersję gry</b></p>
-                    </div>
-                    <a href='https://play.google.com/store/apps/details?id=com.UWr.MagicSpheres&hl=pl&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img class="button" alt='pobierz z Google Play' src='https://play.google.com/intl/pl/badges/static/images/badges/pl_badge_web_generic.png'/>
-                    </a>
+    <section id="section_1">
+        <div id="bg_loop">
+            <video playsinline autoplay muted loop>
+                <source src="media/multi/gameplay_loop.mp4" type="video/mp4">
+            </video>
+            <div class="video_text">
+                <h1>MAGIC SPHERES</h1>
+                <h2>gra rozpraszająca uwagę dziecka</h2>
+                <p>Pomóż dziecku podczas zabiegu z nakłuciem igłą! Zmień nastawienie dziecka do zabiegów medycznych! Możesz użyć do tego swojego smartfona już kilka minut przed zabiegiem i w trakcie zabiegu nakłucia igłą. Aplikacja <b>Magic Spheres</b> ma pięć scenerii i kilka poziomów trudności, które<b> zaprojektowano, aby odwrócić uwagę dziecka od bólu. </b>Pobierz aplikację Magic Spheres i <b>sprawdź, jak rozproszenie uwagi dziecka od ukłucia igłą, zmniejsza jego ból i stres. </b>
+                </p>
+                <div class="download">
+                        <div class="button-text">
+                                Pobierz pełną wersję gry
+                        </div>
+                        <a href='https://play.google.com/store/apps/details?id=com.UWr.MagicSpheres&hl=pl&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img class="button" alt='pobierz z Google Play' src='https://play.google.com/intl/pl/badges/static/images/badges/pl_badge_web_generic.png'/>
+                        </a>
                 </div>
-                <div>
-                    
+                <div class="download">
+                        <div class="button-text">
+                                Pobierz pełną wersję gry
+                        </div>
+                        <a href='https://play.google.com/store/apps/details?id=com.UWr.MagicSpheres&hl=pl&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img class="button" alt='pobierz z Google Play' src='https://play.google.com/intl/pl/badges/static/images/badges/pl_badge_web_generic.png'/>
+                        </a>
                 </div>
-            </div>
+            </div>  
+        </div>
+
+            
         </section>
+    <div class="wrapper">
+        
         <section id="section_2"></section>
         <section id="section_3"></section>
         <section id="section_4"></section>
