@@ -20,7 +20,9 @@
         <li><a href="#onas">O nas</a></li>
         <li><a href="#zaufali">Zaufali nam</a></li>
         <li><a href="#kontakt">Kontakt</a></li>
+        <img src="media/multi/UWRlogo.png" alt="" class="uwrlogo">
     </ul>
+   
 </div>
 
     <div class="wrapper">
@@ -137,9 +139,19 @@ i korzystnie wpłynąć na ich przyszłe nastawienie do zabiegów medycznych.
                 </p>
             </div>
         </section>
+        <section id="testuj">
+            <h4 class="section-title">Przetestuj/sprawdź grę/Zagraj</h4>
+            <div class="store-icon">
+                <img src="media/multi/Store Icon.png" alt="Play Store Icon">
+            </div>
+            <div class="store-button">
+                <a href='https://play.google.com/store/apps/details?id=com.UWr.MagicSpheres&hl=pl&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='pobierz z Google Play' src='https://play.google.com/intl/pl/badges/static/images/badges/pl_badge_web_generic.png'/></a>
+            </div>
+        </section>
+
         <section id="instrukcja">
             <h4 class="section-title">INSTRUKCJA GRY</h4>
-                <video class="vid-tutorial" playsinline autoplay muted loop>
+                <video class="vid-tutorial" controls playsinline autoplay muted loop>
                         <source src="media/pl/Tutorial.mp4" type="video/mp4">
                 </video>
         </section>
