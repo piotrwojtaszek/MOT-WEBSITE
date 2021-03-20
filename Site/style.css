@@ -1,239 +1,71 @@
 *{
-    margin: 0px;
-    padding: 0px;
-    font-size: 20px;
-    box-sizing: border-box;
-    font-family: 'Poppins', sans-serif;
-    scroll-behavior: smooth;
-}
-.holder{
-    position: sticky;
-    top: 0;
-    z-index: 1;
-}
-.adreskontaktwy{
-    height: 25px;
-    background-color: rgb(180, 180, 180);
-    padding: 3px;
-    overflow: hidden;
-
-}
-.adreskontaktwy p{
-    font-size: 15px;
-}
-ul {
-    width: 100%;
-  }
-
-ul.topnav {
-    list-style-type: none;
     margin: 0;
-    padding: 0px 50px 0px 0px;
-    overflow: hidden;
-    background-color: #333;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
 }
-
-ul.topnav li {
-    float: left;
-}
-
-ul.topnav li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 15px;
-    font-size: 17px;
+nav li, a{
+    color: #ffffff;
     text-decoration: none;
+    font-weight: 300;
+}
+header{
+    width: 100%;
+    position: fixed;
+    display: flex;
+    font-size: 16px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 1vw;
+    background-color: #0c2461;
+}
+.logo{
+    cursor: pointer;
+    height: 60px;
 }
 
-ul.topnav li a:hover:not(.active) {
-    background-color: #111;
+.nav_links{
+    list-style: none;
 }
-
-ul.topnav li.right {
-    margin-right: 0px;
-}
-
-.holder img{
-    height: inherit;
-    float: right;
-}
-
-
-.wrapper #videoBG{
-    z-index: -2;
-    height: 93vh;
-    width: auto;
-    filter: blur(3px) saturate(1.2);
-    position: relative;
-    left: 50%;
-    transform: translateX(-50%);
-}
-
-.wrapper .vid{
-    position: relative;
-    /* text-align: center;
-    text-align: -webkit-center; */
-    overflow: hidden;
-}
-.wrapper .vid .centered{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+.nav_links li{
+    display: inline-block;
+    padding: 0px 15px;
 
 }
-.wrapper .vid .centered p{
-    height: 100px;
-    text-align: center;
-    text-align: -webkit-center;
-    font-size: 50px;
-    font-weight: 900;
-    color: white;
-    text-transform: uppercase;
+.nav_links li a{
+    transition: all 0.3s ease 0s;
 }
-
-.wrapper .vid .centered div{
-    position: absolute;
-    z-index: -1;
-    top: 48%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    height: 100px;
-    width: 400px;
-    margin: auto;
-    background-color: rgb(41, 41, 41);
-    opacity: 0.45;
-    filter: blur(30px);
+.nav_links li a:hover{
+    color: #6a89cc;
 }
 
 .wrapper section{
-    padding: 20px;
-    overflow: auto;
-    margin: 50px 5vw 50px 5vw;
-}
-.wrapper section p{
-    font-size: 16px;
+    height: 100vh;
 }
 
-.wrapper section#idea div{
-    margin: 20px 0px 20px 0px;
+#section_1{
+ background-color: blanchedalmond;   
+}
+#section_2{
+    background-color: rgb(93, 187, 50);   
+}
+#section_3{
+    background-color: rgb(184, 75, 235);   
+}
+#section_4{
+    background-color: rgb(220, 255, 66);   
+}
+#section_5{
+    background-color: rgb(233, 64, 100);   
+}
+#section_6{
+    background-color: rgb(255, 196, 0);   
+}
+#section_7{
+    background-color: rgb(64, 137, 233);   
 }
 
-.wrapper section .section-title{
-    text-align: center;
-    margin-bottom: 20px;
-    font-size: 50px;
-    font-weight: bold;
-    color: rgb(255, 110, 171);
-}
-
-.wrapper section .div-right{
-    float: right;
-    padding-left: 5px;
-}
-
-.wrapper section .div-left{
-    float: left;
-    padding-right: 5px;
-}
-.wrapper section .div-left,.div-right
-{
-    width: 50%;
-}
-.wrapper section .div-right .image1{
-    width: 100%;
-}
-
-.wrapper section p {
-    text-justify: inter-word;
-    text-align: justify;
-}
-
-.wrapper .vid-tutorial{
-    width: 80%;
-    display: block;
-    margin: 0 auto;
-}
-
-.wrapper .store-icon{
-    width: 50%;
-    margin: 0px;
-    float: left;
-    text-align: right;
-}.wrapper .store-icon img{
-    width: 50%;
-
-}
-
-.wrapper .store-button{
-    text-align: left;
-    float: right;
-    width: 50%;
-    height: inherit;
-}
-
-.wrapper .store-button a img{
-    width: 50%;
-    text-align: left;
-}
-
-.wrapper section .div-right .kontakt-form div *{
-    width: 100%;
-}
-.wrapper section .div-right .kontakt-form div textarea{
-    height: 100px;
-}
 @media screen and (max-width:800px)
 {
-    .wrapper section{
-        margin: 50px 0px 50px 0px;
-    }
 
-    .wrapper section .div-left,.div-right{
-        width: 100%;
-        padding: 10px 0px 10px 0px;
-    }
-    .wrapper .vid .centered p{
-        height: auto;
-        width: 200px;
-        font-size: 50px;
-        font-weight: 900;
-        text-align:center;
-        color: white;
-        text-transform: uppercase;
-    }
-    .wrapper .vid .centered div{
-        position: absolute;
-        z-index: -1;
-        height: 200px;
-        width: 250px;
-        top: 48%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        margin: auto;
-    }
-    ul.topnav {
-        padding: 0px 0px 0px 0px;
-    }
-
-    ul.topnav li.right, 
-    ul.topnav li {float: none;}
-    .holder{
-        position: relative;
-    }
-
-    .wrapper section .section-title{
-        font-size: 30px;
-    }
-    .wrapper .vid-tutorial{
-        width: 100%;
-    }
-}
-.wrapper section .div-left h1.napiszdonas{
-    float: right;
-    margin-right: 20px;
-}
-
-@media screen and (min-width: 800px) {
 }
