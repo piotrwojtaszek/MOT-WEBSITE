@@ -34,6 +34,18 @@
             Pomóż dziecku podczas zabiegu z nakłuciem igłą! Zmień nastawienie dziecka do zabiegów medycznych! Możesz użyć do tego swojego smartfona już kilka minut przed zabiegiem i w trakcie zabiegu nakłucia igłą. Aplikacja <b>Magic Spheres</b> ma pięć scenerii i kilka poziomów trudności, które<b> zaprojektowano, aby odwrócić uwagę dziecka od bólu. </b>
 Pobierz aplikację Magic Spheres i <b>sprawdź, jak rozproszenie uwagi dziecka od ukłucia igłą, zmniejsza jego ból i stres. </b>
             </p>
+            <div class="download">
+                <div>
+                    <div class="button-text">
+                            <p><b>Pobierz pełną wersję gry</b></p>
+                    </div>
+                    <a href='https://play.google.com/store/apps/details?id=com.UWr.MagicSpheres&hl=pl&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img class="button" alt='pobierz z Google Play' src='https://play.google.com/intl/pl/badges/static/images/badges/pl_badge_web_generic.png'/>
+                    </a>
+                </div>
+                <div>
+                    
+                </div>
+            </div>
         </section>
         <section id="section_2"></section>
         <section id="section_3"></section>

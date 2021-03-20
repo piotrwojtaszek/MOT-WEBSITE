@@ -46,10 +46,11 @@ header{
     display: flex;
     justify-items: center;
     justify-content: center;
+    overflow: hidden;
 }
 #section_0 video{
-    width: 100%;
-    opacity: 0.6;
+    height: 100vh;
+    opacity: 0.55;
     margin-top: 60px;
 }
 
@@ -84,6 +85,35 @@ header{
     font-weight: 300;
     text-align: justify;
 }
+#section_1 .download div{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+}
+
+#section_1 .button-text {
+    align-items: center;
+    font-size: auto;
+    background-color: #0a3d62;
+    max-width: 300px;
+    min-width: 150px;
+    width: 40vw;
+    border-radius: 15px;
+    margin: 20px 0px;
+}
+#section_1 .button-text p{
+    margin: 0;
+    padding: 0px 0px;
+    font-size: 25px;
+    color: white;
+}
+#section_1 .button{
+    max-width: 300px;
+    min-width: 150px;
+    width: 40vw;
+}
+
 #section_2{
  
 }
@@ -107,6 +137,9 @@ header{
 {
     header{
         display: none;
+    }
+    #section_1 .button-text p{
+        font-size: 3vw;
     }
 }
 
