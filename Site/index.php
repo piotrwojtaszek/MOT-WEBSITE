@@ -107,9 +107,20 @@
                         Instrukcja gry
                     </h1>
                 </div>
+                <div class="section_2_1_youtube_video">
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/Wf3ryp1BzgM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
             </div>
         </section>
-        <section id="section_3"></section>
+        <section id="section_3">
+            <div class="section_3_1">
+                <div class="section_3_1_title">
+                    <h1>
+                    Dlaczego warto pobrać Magic Spheres?
+                    </h1>
+                </div>
+            </div>
+        </section>
         <section id="section_4"></section>
         <section id="section_5"></section>
         <section id="section_6"></section>
