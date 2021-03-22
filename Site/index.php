@@ -119,15 +119,54 @@
                     Dlaczego warto pobrać Magic Spheres?
                     </h1>
                 </div>
+                <div class="section_3_1_content">
+                    <div class="section_3_1_content_1">
+                        <p>W Magic Spheres wykorzystano mechanizm przeciwbólowego działania gry, który opiera się na odwróceniu uwagi dziecka od bodźców bólowych. Efekt przeciwbólowy jest tym silniejszy, im bardziej uwaga dziecka zaangażowana jest w bodźce, które odciągają uwagę od zabiegu. Aby osiągnąć ten cel, gra została opracowana w oparciu o wspomnianą już zasadę śledzenia wielu obiektów, która bardziej niż inne gry angażuje uwagę dziecka. Ta metoda różni się od większości innych, które zostały zastosowane do badania rozpraszania uwagi. Po pierwsze, wymaga ciągłej, nieprzerwanej uwagi, a nie krótkotrwałych przesunięć uwagi. Po drugie, wymaga jednoczesnego zwracania uwagi na wiele obiektów równocześnie14. Metoda śledzenia wielu obiektów została już przetestowana podczas badania uwagi w różnych grupach wiekowych, w tym u małych dzieci15. 
+                        </p>
+                    </div>
+                    <div class="section_3_1_content_2">
+                        <p class="section_3_1_content_2_1">
+                        Gra została zaprojektowana w taki sposób, aby umożliwić jej zastosowanie dla dzieci w różnym wieku. Magic Spheres polega na zapamiętaniu kilku krótko migających elementów, a następnie odnalezieniu ich wśród innych poruszających się obiektów. Gra składa się z kilku scen, a każda scena ma inne tło i liczbę obiektów latających, aby z każdym poziomem podtrzymywać zainteresowanie dziecka i zwiększać szansę na odwrócenie uwagi od bólu. 
+                        </p>
+                        <p class="section_3_1_content_2_2">
+                        Gra opracowana jest specyficznie pod kątem zastosowania jej podczas krótkotrwałego, bolesnego zabiegu, dlatego powinna być stosowana tylko do tego celu: jako kilkuminutowe przećwiczenie gry, bezpośrednio przed zabiegiem oraz przez kilka minut trwania zabiegu. Umożliwi to zachowanie efektu nowości i maksymalizację skupienia uwagi dziecka na wykonywanym w grze zadaniu – im lepiej dziecko opanuje grę, tym słabszy może być efekt jej działania w odwracaniu uwagi od bólu.
+                        </p>
+                    </div>
+                    <div class="section_3_1_content_3">
+                        <div class="section_3_1_content_3_1">
+                            <p>
+                            Gra powstała, aby wspomagać dobrostan psychiczny dzieci, rodziców i pracowników służby zdrowia.
+                            </p>
+                        </div>
+                        <div class="section_3_1_content_3_2">
+                            <ul>
+                                <li><p>Darmowa</p></li>
+                                <li><p>Dostępna dla każdego</p></li>
+                                <li><p>Intuicyjna w użyciu</p></li>
+                            </ul>
+                        </div>
+                        <div class="section_3_1_content_3_3">
+                        <p>Korzystanie z gry nie wiąże się z udziałem w badaniu naukowym.</p>
+                        </div>
+                    </div>
+                </div>
             </div>
         </section>
-        <section id="section_4"></section>
+        <section id="section_4">
+            <div class="section_4_1">
+                <div class="section_4_1_title">
+                    <h1>
+                    Odwróć uwagę dziecka od bólu
+                    </h1>
+                </div>
+            </div>
+        </section>
         <section id="section_5"></section>
         <section id="section_6"></section>
         <section id="section_7"></section>
     </div>
 
 
-    <script src="script.js"></script>
+    <!-- <script src="script.js"></script> -->
 </body>
 </html>
