@@ -86,7 +86,7 @@
                         Dlaczego stworzyliśmy Magic Spheres?
                         </h1>
                     </div>
-                    <div class="section_1_2_ctontent">
+                    <div class="section_1_2_content">
                         <p class="section_1_2_content_child1">
                         Magic Spheres stanowi odpowiedź na potrzeby minimalizowania stresu i leczenia bólu u dzieci podczas zabiegów igłowych. Efekty wcześniejszych badań VR4Health Lab wskazują na duży potencjał tej autorskiej gry w rozpraszaniu uwagi dzieci od bodźców bólowych.
                         </p>
@@ -100,7 +100,15 @@
                 </div>
             </div>
         </section>
-        <section id="section_2"></section>
+        <section id="section_2">
+            <div class="section_2_1">
+                <div class="section_2_1_title">
+                    <h1>
+                        Instrukcja gry
+                    </h1>
+                </div>
+            </div>
+        </section>
         <section id="section_3"></section>
         <section id="section_4"></section>
         <section id="section_5"></section>
