@@ -3,6 +3,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+html {
+    scroll-behavior: smooth;
+}
+
 .header{
     z-index: 1;
     position: fixed;
@@ -25,6 +30,7 @@ nav li, a{
     font-weight: 300;
     text-align: center;
 }
+
 .logo{
     cursor: pointer;
     max-height: 45px;
@@ -34,11 +40,13 @@ nav li, a{
 .nav_links{
     list-style: none;
 }
+
 .nav_links li{
     display: inline-block;
     padding: 0px 15px;
 
 }
+
 .nav_links li a{
     transition: all 0.3s ease 0s;
 }
@@ -51,17 +59,19 @@ nav li, a{
     overflow: hidden;
     padding-top: 60px;
 }
+
 .section_0 video{
     padding-top: 60px;
     position: absolute;
     z-index: -1;
-    height: 100%;
+    height: 105%;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     overflow: hidden;
     opacity: 0.55;
 }
+
 .section_0 .bg_color{
     position: absolute;
     z-index: -2;
@@ -70,6 +80,7 @@ nav li, a{
     height: 100%;
     overflow: hidden;
 }
+
 .section_0 .text_wrap{
     display: flex;
      flex-direction: column;
@@ -79,13 +90,14 @@ nav li, a{
     width: 100vw;
 
 }
+
 .section_0 .text_wrap .centered{
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center; 
-    width: 1200px;
-    height: 1000px;
+    width: 1000px;
+    height: 800px;
     color: white;
 }
 
@@ -107,11 +119,13 @@ nav li, a{
     width: 880px;
     font-family: 'Roboto', sans-serif;
 }
+
 .inner_margin p{
     font-size: 20px;
     font-weight: 300;
     text-align: justify;
 }
+
 .download_containter
 {
     background-color: #002e63d3;
@@ -129,6 +143,7 @@ nav li, a{
     margin: -18px;
     width: 250px;
 }
+
 .download_text{
     font-weight: 300;
     text-transform: uppercase;
@@ -137,6 +152,7 @@ nav li, a{
     font-size: 20px;
     color: white;
 }
+
 .check_game{
     width: 35%;
     height: 60px;
@@ -148,9 +164,11 @@ nav li, a{
     align-items: center; 
     justify-content: center;
 }
+
 .check_game p{
     text-transform: uppercase;
 }
+
 .learn_more{
     width: 35%;
     height: 60px;
@@ -162,13 +180,81 @@ nav li, a{
     align-items: center; 
     justify-content: center;
 }
+
 .learn_more p{
     text-transform: uppercase;
 }
 
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+}
 .wrapper section{
-    height: 100vh;
-    margin-bottom: 30px;
-    background-color: #dce1f0;
+    width: 1000px;
+    padding-top: 100px;
+    min-height: 200px;
+    background-color: #ffffff;
+}
+
+.section_1_1_title
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 30px;
+}
+
+.section_1_1_title h1{
+    font-size: 57px;
+    width: 30%;
+    text-align: right;
+    font-weight: 400;
+    line-height: .9em;
+}
+
+.section_1_1_title div{
+    width: 2px;
+    height: 100px;
+    background-color: black;
+}
+
+.section_1_1_title h4{
+    font-size: 32px;
+    width: 67%;
+    font-weight: 400;
+    line-height: 1.5em;
+}
+
+.section_1_1_content_title p{
+    padding: 0 0 0 40px;
+}
+
+.section_1_1_content_timeline img{
+    width: 100%;
+}
+
+.section_1_2_content{
+    display: flex;
+    flex-direction: column;
+}
+
+.section_1_2_title h1{
+    text-align: center;
+    margin: 30px;
+    font-weight: 400;
+    font-size: 50px;
+}
+
+.section_1_2_content p{
+    width: 80%;
+}
+
+.section_1_2_content_child2{
+    margin: 0 0 0 auto;
     padding: 30px;
+    text-align: justify;
 }

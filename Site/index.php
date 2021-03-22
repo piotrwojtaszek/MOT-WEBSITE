@@ -10,9 +10,11 @@
 <body>
 
     <div class="header" id="sticky">
+        <a href="#section_0">
             <img class="logo" src="media/multi/logo.png"></img>
+        </a>
             <nav class="nav_links">
-                <li><a href="#section_0">O grze</a></li>
+                <li><a href="#section_1">O grze</a></li>
                 <li><a href="#section_2">Instrukcja gry</a></li>
                 <li><a href="#section_3">Dlaczego warto</a></li>
                 <li><a href="#section_4">O bólu</a></li>
@@ -47,16 +49,57 @@
                         </p> 
                     </div>
                     <div class="learn_more">
-                        <p>
-                            Dowiedz się więcej
-                        </p> 
+                       <a href="#section_1">  
+                           <p>Dowiedz się więcej</p>
+                        </a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
     <div class="wrapper">
-        <section id="section_1"></section>
+        <section id="section_1">
+            <div class="section_1_container">
+                <div class="section_1_1">
+                    <div class="section_1_1_title">
+                        <h1>
+                            Dystrakcja uwagi 
+                        </h1>
+                        <div></div>
+                        <h4>
+                        potencjał w leczeniu bólu potwierdzony przez zespół badawczy VR4HEALTH LAB
+                        </h4>
+                    </div>
+                    <div class="section_1_1_content">
+                        <div class="section_1_1_content_title">
+                            <p>
+                                Naukowcy z Instytutu Psychologii Uniwersytetu Wrocławskiego od prawie dekady prowadzą badania nad odwracaniem uwagi od krótkotrwałego bólu.
+                            </p>
+                        </div>
+                        <div class="section_1_1_content_timeline">
+                            <img src="media/multi/timeline.JPG" alt="timeline">
+                        </div>
+                </div>
+                <div class="section_1_2">
+                    <div class="section_1_2_title">
+                        <h1>
+                        Dlaczego stworzyliśmy Magic Spheres?
+                        </h1>
+                    </div>
+                    <div class="section_1_2_ctontent">
+                        <p class="section_1_2_content_child1">
+                        Magic Spheres stanowi odpowiedź na potrzeby minimalizowania stresu i leczenia bólu u dzieci podczas zabiegów igłowych. Efekty wcześniejszych badań VR4Health Lab wskazują na duży potencjał tej autorskiej gry w rozpraszaniu uwagi dzieci od bodźców bólowych.
+                        </p>
+                        <p class="section_1_2_content_child2">
+                        Naukowcy wciąż sprawdzają czy zastosowanie VR jest skuteczniejsze od stosowania innych technologii cyfrowych8, 9, dlatego grę zaprojektowano w środowisku 2D. Przeciwbólową skuteczność - podczas procedur pobierania krwi - potwierdzono zarówno dla gier w VR 10, 11, jak i przy użyciu innych technologii cyfrowych 12, 13.
+                        </p>
+                        <p class="section_1_2_content_child3">
+                        Mając na celu możliwie najprostszą formę korzystania z gry, została ona zaprogramowana specjalnie do użytku na smartfonie i tablecie, tak aby zarówno rodzice, jak i pracownicy służby zdrowia mieli do niej nieograniczony i niezależny dosęp, bez ponoszenia dodatkowych kosztów. 
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
         <section id="section_2"></section>
         <section id="section_3"></section>
         <section id="section_4"></section>
