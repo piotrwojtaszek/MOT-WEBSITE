@@ -186,6 +186,7 @@ nav li, a{
 }
 
 .wrapper{
+    overflow: auto;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
@@ -253,7 +254,7 @@ nav li, a{
 
 .section_1_2_title h1{
     text-align: center;
-    margin: 30px;
+    margin-top: 30px;
 }
 
 .section_1_2_content p{
