@@ -48,11 +48,11 @@
                             Zobacz jak wygląda gra 
                         </p> 
                     </div>
-                    <div class="learn_more">
-                       <a href="#section_1">  
+                    <a href="#section_1">  
+                        <div class="learn_more">
                            <p>Dowiedz się więcej</p>
-                        </a>
-                    </div>
+                        </div>
+                    </a>
                 </div>
             </div>
         </div>
@@ -158,11 +158,56 @@
                     <h1>
                     Odwróć uwagę dziecka od bólu
                     </h1>
+                    <h4>
+                    Przetestuj grę i zminimalizuj niepokój dziecka przed ukłuciem igłą 
+                    </h4>
+                </div>
+                <div class="section_4_1_content">
+                    <div class="section_4_1_content_1">
+                        <div class="section_4_1_content_1_icon">
+                            <img src="media/multi/MagicSpheresLogo.png" alt="Magic_Spheres_Logo">
+                        </div>
+                        <div class="section_4_1_content_1_store">
+                        <a href='https://play.google.com/store/apps/details?id=com.UWr.MagicSpheres&hl=pl&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
+                            <img class="section_4_1_content_1_store_button" alt='pobierz z Google Play' src='https://play.google.com/intl/pl/badges/static/images/badges/pl_badge_web_generic.png'/>
+                        </a>
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>
-        <section id="section_5"></section>
-        <section id="section_6"></section>
+        <section id="section_5">
+            <div class="section_5_1">
+                <div class="section_5_1_title">
+                    <h1>
+                    Kilka słów o bólu, dziecięcych lękach i sposobach na odczarowanie lęku przed nakłuciem igłą...
+                    </h1>
+                </div>
+                <div class="section_5_1_content">
+                    <div class="section_5_1_content_1">
+                        <p>Ból</p> 
+                        <p>jest nieprzyjemnym doznaniem zmysłowym i emocjonalnym, które odczuwają już niemowlęta. Doświadczanie bólu jest subiektywne i zindywidualizowane, a tolerancja na ból rozwija się od wczesnego dzieciństwa – od pierwszych doznawanych obrażeń ciała1. Dzieci od urodzenia narażone są na ból spowodowany nakłuciem igłą. U zdrowych dzieci jest to najczęściej szczepienie, które może być wykonywane nawet kilkanaście razy do 18 roku życia. U dzieci wymagających leczenia zdarza się to jeszcze częściej w związku z pobieraniem krwi, zastrzykami czy wkłuciami dożylnymi. Poza  negatywnym wpływem na dziecko – ból i niepokój dziecka sprawiają, że zabiegi z użyciem igły są bardzo stresujące dla rodziców dziecka i pracowników służby zdrowia3.
+
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="section_6">
+            <div class="section_6_1">
+                <div class="section_6_1_title">
+                    <h1>
+                    Kto stworzył grę?
+                    </h1>
+                </div>
+                <div class="section_6_1_content">
+                    <p>
+                    Magic Spheres została zaprojektowana w oparciu o badania naukowe przeprowadzone przez zespół badaczy z Labolatorium VR4Health w Instytucie Psychologii Uniwersytetu Wrocławskiego
+
+                    </p>
+                </div>
+            </div>
+        </section>
         <section id="section_7"></section>
     </div>
 
