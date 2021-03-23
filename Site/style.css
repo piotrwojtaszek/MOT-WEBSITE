@@ -242,9 +242,44 @@ nav li, a{
 .section_1_1_content_title p{
     padding: 0 0 0 40px;
 }
+.section_1_1_content_boxes{
+    display: flex;
+    flex-direction: row;
+}
+.section_1_1_content_boxes div{
+    position: relative;
+    width: 33%;
+    padding:10px 10px 0 10px;
+}
 
+.section_1_1_content_boxes div div{
+    position: absolute;
+    width: 100%;
+    margin:0;
+    padding: 0;
+}
+.section_1_1_content_boxes_1_containter p{
+    margin: 10px 15px 0px 10px;
+}
+.section_1_1_content_boxes_1_containter ul {
+    margin-left: 30px;
+}
+
+.section_1_1_content_boxes_2_containter p{
+    margin: 10px 20px 0px 10px;
+    font-size: .95em;
+}
+.section_1_1_content_boxes_2_containter ul {
+    margin: 0 15px 0 30px;
+}
 .section_1_1_content_timeline img{
     width: 100%;
+}
+.section_1_1_content_boxes_3_containter img{
+    padding: 0 20px 20px 0;
+    width: 100%;
+    z-index: 1;
+
 }
 
 .section_1_2_content{

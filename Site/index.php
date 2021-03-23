@@ -77,7 +77,64 @@
                             </p>
                         </div>
                         <div class="section_1_1_content_timeline">
-                            <img src="media/multi/timeline.JPG" alt="timeline">
+                            <div class="section_1_1_content_boxes">
+                                <div class="section_1_1_content_boxes_1">
+                                    <div class="section_1_1_content_boxes_1_containter">
+                                        <p>
+                                        Wyniki ostatnich badań wykazały, że autorska gra wymagająca jednoczesnego śledzenia wielu obiektów (mocno angażująca uwagę dziecka):
+                                        </p>
+                                        <ul>
+                                            <li>
+                                                <p>
+                                                zmniejszyła natężenie bólu o 59% w porównaniu z grupą kontrolną
+                                                </p> 
+                                            </li>
+                                            <li>
+                                                <p>
+                                                poziom stresu zmniejszył się o 73% w grupie wszystkich 39 dzieci 6.
+                                                </p>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <img src="media/multi/dialog-box.svg" alt="box">
+                                    <p>
+                                        2017
+                                    </p>
+                                </div>
+                                <div class="section_1_1_content_boxes_2">
+                                    <div class="section_1_1_content_boxes_2_containter">
+                                        <p>
+                                        Podobny efekt otrzymano w kolejnym badaniu (w grupie 57 dzieci), w którym dodatkowo porównywano dwa rodzaje interwencji w wirtualnej rzeczywistości (VR). W jednej dzieci aktywnie grały w analogiczną grę w VR, a w drugiej - oglądały film podobny do prezentowanej gry.
+                                        </p>
+                                        <ul>
+                                            <li>
+                                                <p>
+                                                Obie grupy VR zgłosiły istotnie mniejsze nasilenie bólu i stresu w porównaniu do grupy kontrolnej. 
+                                                </p> 
+                                            </li>
+                                            <li>
+                                                <p>
+                                                Między grupami VR zauważono tendencję do większej redukcji bólu i stresu u osób aktywnie grających podczas zabiegu 7.
+                                                </p>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <img src="media/multi/dialog-box.svg" alt="box">
+                                    <p>
+                                        2020
+                                    </p>
+                                </div>
+                                <div class="section_1_1_content_boxes_3">
+                                    <div class="section_1_1_content_boxes_3_containter">
+                                        <img src="media/multi/MagicSpheresLogo.png" alt="logo">
+                                    </div>
+                                    <img src="media/multi/dialog-box.svg" alt="box">
+                                    <p>
+                                        2021
+                                    </p>
+                                </div>
+                            </div>
+                            <img src="media/multi/timeline.svg" alt="timeline-svg">
                         </div>
                 </div>
                 <div class="section_1_2">
