@@ -256,14 +256,14 @@ nav li, a{
 .section_1_1_content_boxes div div{
     width: 90%;
     margin:0;
-    padding: 0;
+    padding: 10px;
     border: 2px solid black;
 }
 .section_1_1_content_boxes_1_containter p{
     margin: 0px;
 }
 .section_1_1_content_boxes_1_containter ul {
-    margin-left: 30px;
+    margin-left: 20px;
 }
 
 .section_1_1_content_boxes_2_containter p{
@@ -271,7 +271,7 @@ nav li, a{
     font-size: .95em;
 }
 .section_1_1_content_boxes_2_containter ul {
-
+    margin-left: 20px;
 }
 .section_1_1_content_timeline img{
     width: 100%;
