@@ -97,7 +97,7 @@
                                         </ul>
                                     </div>
                                     <img src="media/multi/dialog-box.svg" alt="box">
-                                    <p>
+                                    <p class="section_1_1_content_boxes_p">
                                         2017
                                     </p>
                                 </div>
@@ -120,7 +120,7 @@
                                         </ul>
                                     </div>
                                     <img src="media/multi/dialog-box.svg" alt="box">
-                                    <p>
+                                    <p class="section_1_1_content_boxes_p">
                                         2020
                                     </p>
                                 </div>
@@ -129,12 +129,20 @@
                                         <img src="media/multi/MagicSpheresLogo.png" alt="logo">
                                     </div>
                                     <img src="media/multi/dialog-box.svg" alt="box">
-                                    <p>
+                                    <p class="section_1_1_content_boxes_p">
                                         2021
                                     </p>
                                 </div>
                             </div>
-                            <img src="media/multi/timeline.svg" alt="timeline-svg">
+                            <div class="section_1_1_timeline_svg">
+                                <div class="section_1_1_timeline_svg_points">
+                                    <div class="section_1_1_timeline_svg_points_1"></div>
+                                    <div class="section_1_1_timeline_svg_points_1"></div>
+                                    <div class="section_1_1_timeline_svg_points_1"></div>
+                                </div>
+                                <img src="media/multi/timeline.svg" alt="timeline-svg">
+
+                            </div>
                         </div>
                 </div>
                 <div class="section_1_2">

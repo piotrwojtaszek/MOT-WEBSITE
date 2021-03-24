@@ -279,7 +279,9 @@ nav li, a{
     padding: 0 20px 20px 0;
     width: 100%;
     z-index: 1;
-
+}
+.section_1_1_content_boxes_p{
+padding-left: 25%;
 }
 
 .section_1_2_content{
@@ -287,9 +289,29 @@ nav li, a{
     flex-direction: column;
 }
 
+.section_1_1_timeline_svg{
+    position: relative;
+    width: 100%;
+}
+.section_1_1_timeline_svg_points{
+    position: absolute;
+    display: flex;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+}
+
+.section_1_1_timeline_svg_points div{
+    padding:10px;
+    margin:0 21% 0 10%;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+}
+
 .section_1_2_title h1{
     text-align: center;
     margin-top: 30px;
+    margin-bottom: 20px;
 }
 
 .section_1_2_content p{
