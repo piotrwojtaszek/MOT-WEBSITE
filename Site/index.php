@@ -95,7 +95,7 @@
                                             </li>
                                         </ul>
                                     </div>
-                                    <img src="media/multi/dialog-box.svg" alt="box">
+                                    <!-- <img src="media/multi/dialog-box.svg" alt="box"> -->
                                     <p class="section_1_1_content_boxes_p">
                                         2017
                                     </p>
@@ -118,7 +118,7 @@
                                             </li>
                                         </ul>
                                     </div>
-                                    <img src="media/multi/dialog-box.svg" alt="box">
+                                    <!-- <img src="media/multi/dialog-box.svg" alt="box"> -->
                                     <p class="section_1_1_content_boxes_p">
                                         2020
                                     </p>
@@ -127,7 +127,7 @@
                                     <div class="section_1_1_content_boxes_3_containter">
                                         <img src="media/multi/MagicSpheresLogo.png" alt="logo">
                                     </div>
-                                    <img src="media/multi/dialog-box.svg" alt="box">
+                                    <!-- <img src="media/multi/dialog-box.svg" alt="box"> -->
                                     <p class="section_1_1_content_boxes_p">
                                         2021
                                     </p>
