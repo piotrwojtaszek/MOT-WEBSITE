@@ -572,12 +572,23 @@ padding-left: 25%;
     .section_1_1_content_boxes{
         display: flex;
         flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
     }
     .section_1_1_content_boxes div{
-        position: relative;
-        width: 75%;
-        height: 50%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
         padding:10px 10px 0 10px;
+        margin:0;
+    }
+    .section_1_1_content_boxes div div{
+        width: 100%;
+        max-width: 500px;
+        margin: 0;
     }
     .section_3_1_content_2{
         display: flex;
