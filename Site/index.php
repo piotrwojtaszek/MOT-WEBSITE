@@ -22,7 +22,6 @@
                 <li><a href="#section_6">Zaufali nam</a></li>
                 <li><a href="#section_7">Kontakt</a></li>
             </nav>
-        </header>
     </div>
     <div class="section_0" id="section_0">
         <video src="media/multi/gameplay_loop.mp4" playsinline autoplay muted loop></video>
@@ -148,7 +147,7 @@
                 <div class="section_1_2">
                     <div class="section_1_2_title">
                         <h1>
-                        Dlaczego stworzyliśmy Magic Spheres?
+                            Dlaczego stworzyliśmy Magic Spheres?
                         </h1>
                     </div>
                     <div class="section_1_2_content">

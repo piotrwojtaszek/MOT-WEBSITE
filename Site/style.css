@@ -33,8 +33,7 @@ nav li, a{
 
 .logo{
     cursor: pointer;
-    max-height: 45px;
-    max-width: 15vw;
+    height: 100%;
 }
 
 .nav_links{
@@ -64,7 +63,7 @@ nav li, a{
     padding-top: 60px;
     position: absolute;
     z-index: -1;
-    height: 105%;
+    height: 115%;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -116,7 +115,7 @@ nav li, a{
 
 .inner_margin{
     margin:0;
-    width: 880px;
+    width: 88%;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -184,7 +183,9 @@ nav li, a{
 .learn_more p{
     text-transform: uppercase;
 }
-
+.learn_more p, .check_game p{
+    text-align: center;
+}
 .wrapper{
     overflow: auto;
     display: flex;
@@ -310,8 +311,6 @@ padding-left: 25%;
 
 .section_1_2_title h1{
     text-align: center;
-    margin-top: 30px;
-    margin-bottom: 20px;
 }
 
 .section_1_2_content p{
@@ -445,4 +444,124 @@ padding-left: 25%;
 .section_4_1_content_1 p:first-child{
     font-size: 2em;
     font-weight: 500;
+}
+
+@media screen and (max-width:1000px){
+    .header{
+        padding:5px;
+    }
+    .logo{
+        cursor: pointer;
+        height: 100%;
+        width: auto;
+    }
+    .header nav{
+        display: none;
+        max-width: none;
+        max-height: none;
+    }
+    .section_0 .text_wrap .centered{
+        width: 100vw;
+        min-height: 800px;
+        height: auto;
+    }
+    .section_0 .text_wrap .centered h1{
+        font-size: 5em;
+    }
+    .section_0 .text_wrap .centered h4{
+        font-size: 2.5em;
+        padding: 20px 0 30px 0;
+    }
+    .download_containter{
+    background-color: #002e63d3;
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center; 
+    }
+    .download_text{
+        padding:10px 0 20px 0;
+    }
+    .wrapper{
+        overflow: hidden;
+    }
+    .wrapper section{
+        width: 100vw;
+        padding-top: 100px;
+        min-height: 200px;
+        background-color: #ffffff;
+        margin-left:15px;
+        margin-right: 15px;
+    }
+
+    .section_1_1_title{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 30px;
+    }
+
+    .section_3_1_content_3{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: stretch;
+    }
+
+    .section_3_1_content_3_1{
+        width: 100%;
+        margin:5px
+    }
+    
+    .section_3_1_content_3_2{
+        width: 100%;
+        margin: 5px 5px 5px 5px;
+        padding-left: 50px !important;
+        text-align: center;
+    }
+    
+    .section_3_1_content_3_3{
+        width: 100%;
+        margin: 5px 0 5px 5px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .section_1_1_title h1{
+        width: 100%;
+        text-align: left;
+        line-height: .9em;
+    }
+    
+    .section_1_1_title div{
+        display: none;
+    }
+    
+    .section_1_1_title h4{
+        width: 100%;
+        line-height: 1.5em;
+    }
+    .section_1_1_content_boxes{
+        display: flex;
+        flex-direction: column;
+    }
+    .section_1_1_content_boxes div{
+        position: relative;
+        width: 75%;
+        height: 50%;
+        padding:10px 10px 0 10px;
+    }
+    .section_3_1_content_2{
+        display: flex;
+        flex-direction: column;
+        padding-bottom: 30px;
+    }
+    .section_3_1_content_2 div{
+        width: 100%;
+        justify-content: space-between;
+    }
 }
