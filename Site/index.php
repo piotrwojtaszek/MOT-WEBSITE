@@ -241,12 +241,43 @@
                     <div class="section_4_1_content">
                         <div class="section_4_1_content_1">
                             <p>Ból</p> 
-                            <p>jest nieprzyjemnym doznaniem zmysłowym i emocjonalnym, które odczuwają już niemowlęta. Doświadczanie bólu jest subiektywne i zindywidualizowane, a tolerancja na ból rozwija się od wczesnego dzieciństwa – od pierwszych doznawanych obrażeń ciała1. Dzieci od urodzenia narażone są na ból spowodowany nakłuciem igłą. U zdrowych dzieci jest to najczęściej szczepienie, które może być wykonywane nawet kilkanaście razy do 18 roku życia. U dzieci wymagających leczenia zdarza się to jeszcze częściej w związku z pobieraniem krwi, zastrzykami czy wkłuciami dożylnymi. Poza  negatywnym wpływem na dziecko – ból i niepokój dziecka sprawiają, że zabiegi z użyciem igły są bardzo stresujące dla rodziców dziecka i pracowników służby zdrowia3.
-
+                            <p>
+                            jest nieprzyjemnym doznaniem zmysłowym i emocjonalnym, które odczuwają już niemowlęta. Doświadczanie bólu jest subiektywne i zindywidualizowane, a tolerancja na ból rozwija się od wczesnego dzieciństwa – od pierwszych doznawanych obrażeń ciała1. Dzieci od urodzenia narażone są na ból spowodowany nakłuciem igłą. U zdrowych dzieci jest to najczęściej szczepienie, które może być wykonywane nawet kilkanaście razy do 18 roku życia. U dzieci wymagających leczenia zdarza się to jeszcze częściej w związku z pobieraniem krwi, zastrzykami czy wkłuciami dożylnymi. Poza  negatywnym wpływem na dziecko – ból i niepokój dziecka sprawiają, że zabiegi z użyciem igły są bardzo stresujące dla rodziców dziecka i pracowników służby zdrowia3.
                             </p>
                         </div>
                     </div>
                 </div>
+                <div class="section_4_2_content">
+                        <div class="section_4_2_content_1">
+                            <img src="media/multi/syringe.png" alt="">
+                            <ul>
+                                <li><p>Szczepienie</p></li>
+                                <li><p>Pobranie krwi</p></li>
+                                <li><p>Leczenie szpitalne</p></li>
+                                <li><p>Zabieg dentystyczny</p></li>
+                            </ul>
+                            <p class="section_4_2_content_1_2">
+                            Dla dzieci nakłucie żyły jest jednym z najbardziej przerażających zabiegów.
+                            </p>
+                        </div>
+                        <div class="section_4_2_content_2">
+                            <img src="media/multi/cry_baby.png" alt="">
+                            <p>
+                            Jak czuje się dziecko podczas zabiegu?
+                            </p>
+                        </div>
+                        <div class="section_4_2_content_3">
+                            <p class="section_4_2_content_3_1">Nieleczony ból i stres podczas zabiegów może:</p>
+                            <ul>
+                                <li><p>wywoływać negatywne nastawienie do badania</p></li>
+                                <li><p>zniechęcać do zabiegów medycznych</p></li>
+                                <li><p>powodować unikanie badań czy leczenia z powodu strachu przed nakłuciem</p></li>
+                                <li><p>nasilać lęk.</p></li>
+                                <li><p>wywoływać fobię przed igłami</p></li>
+                                <li><p>obniżać tolerancję na ból  2</p></li>
+                            </ul>
+                        </div>
+                    </div>
         </section>
         <section id="section_5">
         <div class="section_5_1">

@@ -447,6 +447,7 @@ padding-left: 25%;
 
 .section_4_1_content_1{
     padding-top: 30px;
+    padding-bottom: 50px;
 }
 
 .section_4_1_content_1 p{
@@ -457,6 +458,56 @@ padding-left: 25%;
 .section_4_1_content_1 p:first-child{
     font-size: 2em;
     font-weight: 500;
+}
+
+.section_4_2_content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.section_4_2_content_1{
+    width: 24%;
+}
+.section_4_2_content_2{
+    width: 48%;
+}
+.section_4_2_content_3{
+    width: 26%;
+}
+
+.section_4_2_content_1 ul{
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+.section_4_2_content_1 li{
+    font-size: .88em;
+    margin: 10px;
+}
+
+.section_4_2_content_2 p{
+    text-align: center;
+}
+
+.section_4_2_content_3_1{
+    padding: 0 0 20px 0;
+}
+.section_4_2_content_3 ul{
+    margin-left: 10px;
+
+}
+.section_4_2_content_3 li{
+    margin: 10px;
+    font-size: 0.88em;
+}
+
+.section_4_2_content_1 img{
+    width: 100%;
+}
+
+.section_4_2_content_2 img{
+    width: 100%;
 }
 
 @media screen and (max-width:1000px){
@@ -500,16 +551,16 @@ padding-left: 25%;
     }
 
     .wrapper p{
-        font-size: 1.1em;
+        font-size: 1em;
     }
     
     .wrapper h1{
-        font-size: 3em;
+        font-size: 2.5em;
         font-weight: 400;
     }
     
     .wrapper h4{
-        font-size: 1.9em;
+        font-size: 1.7em;
         font-weight: 400;
     }
 
