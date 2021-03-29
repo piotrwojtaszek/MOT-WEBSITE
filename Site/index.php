@@ -144,15 +144,21 @@
                         </h1>
                     </div>
                     <div class="section_1_2_content">
-                        <p class="section_1_2_content_child1">
-                        Magic Spheres stanowi odpowiedź na potrzeby minimalizowania stresu i leczenia bólu u dzieci podczas zabiegów igłowych. Efekty wcześniejszych badań VR4Health Lab wskazują na duży potencjał tej autorskiej gry w rozpraszaniu uwagi dzieci od bodźców bólowych.
-                        </p>
-                        <p class="section_1_2_content_child2">
-                        Naukowcy wciąż sprawdzają czy zastosowanie VR jest skuteczniejsze od stosowania innych technologii cyfrowych8, 9, dlatego grę zaprojektowano w środowisku 2D. Przeciwbólową skuteczność - podczas procedur pobierania krwi - potwierdzono zarówno dla gier w VR 10, 11, jak i przy użyciu innych technologii cyfrowych 12, 13.
-                        </p>
-                        <p class="section_1_2_content_child3">
-                        Mając na celu możliwie najprostszą formę korzystania z gry, została ona zaprogramowana specjalnie do użytku na smartfonie i tablecie, tak aby zarówno rodzice, jak i pracownicy służby zdrowia mieli do niej nieograniczony i niezależny dosęp, bez ponoszenia dodatkowych kosztów. 
-                        </p>
+                        <div class="section_1_2_content_child1">
+                            <p>
+                            Magic Spheres stanowi odpowiedź na potrzeby minimalizowania stresu i leczenia bólu u dzieci podczas zabiegów igłowych. Efekty wcześniejszych badań VR4Health Lab wskazują na duży potencjał tej autorskiej gry w rozpraszaniu uwagi dzieci od bodźców bólowych.
+                            </p>
+                        </div>
+                        <div class="section_1_2_content_child2">
+                            <p>
+                            Naukowcy wciąż sprawdzają czy zastosowanie VR jest skuteczniejsze od stosowania innych technologii cyfrowych8, 9, dlatego grę zaprojektowano w środowisku 2D. Przeciwbólową skuteczność - podczas procedur pobierania krwi - potwierdzono zarówno dla gier w VR 10, 11, jak i przy użyciu innych technologii cyfrowych 12, 13.
+                            </p>
+                        </div>
+                        <div class="section_1_2_content_child3">
+                            <p>
+                            Mając na celu możliwie najprostszą formę korzystania z gry, została ona zaprogramowana specjalnie do użytku na smartfonie i tablecie, tak aby zarówno rodzice, jak i pracownicy służby zdrowia mieli do niej nieograniczony i niezależny dosęp, bez ponoszenia dodatkowych kosztów. 
+                            </p>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -240,9 +246,7 @@
                     </div>
                     <div class="section_4_1_content">
                         <div class="section_4_1_content_1">
-                            <p>Ból</p> 
-                            <p>
-                            jest nieprzyjemnym doznaniem zmysłowym i emocjonalnym, które odczuwają już niemowlęta. Doświadczanie bólu jest subiektywne i zindywidualizowane, a tolerancja na ból rozwija się od wczesnego dzieciństwa – od pierwszych doznawanych obrażeń ciała1. Dzieci od urodzenia narażone są na ból spowodowany nakłuciem igłą. U zdrowych dzieci jest to najczęściej szczepienie, które może być wykonywane nawet kilkanaście razy do 18 roku życia. U dzieci wymagających leczenia zdarza się to jeszcze częściej w związku z pobieraniem krwi, zastrzykami czy wkłuciami dożylnymi. Poza  negatywnym wpływem na dziecko – ból i niepokój dziecka sprawiają, że zabiegi z użyciem igły są bardzo stresujące dla rodziców dziecka i pracowników służby zdrowia3.
+                            <p> <b>Ból</b> jest nieprzyjemnym doznaniem zmysłowym i emocjonalnym, które odczuwają już niemowlęta. Doświadczanie bólu jest subiektywne i zindywidualizowane, a tolerancja na ból rozwija się od wczesnego dzieciństwa – od pierwszych doznawanych obrażeń ciała1. Dzieci od urodzenia narażone są na ból spowodowany nakłuciem igłą. U zdrowych dzieci jest to najczęściej szczepienie, które może być wykonywane nawet kilkanaście razy do 18 roku życia. U dzieci wymagających leczenia zdarza się to jeszcze częściej w związku z pobieraniem krwi, zastrzykami czy wkłuciami dożylnymi. Poza  negatywnym wpływem na dziecko – ból i niepokój dziecka sprawiają, że zabiegi z użyciem igły są bardzo stresujące dla rodziców dziecka i pracowników służby zdrowia3.
                             </p>
                         </div>
                     </div>
