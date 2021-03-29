@@ -142,7 +142,7 @@ nav li, a{
     justify-content: space-between;
     align-items: center; 
     border-radius: 12px;
-    box-shadow: 0 0 10px black;
+    box-shadow: 0 0 10px #002e63;
     /* border: rgb(0, 0, 0) 2px solid; */
     margin: 50px 0 15px 0;
 }
@@ -153,7 +153,7 @@ nav li, a{
 }
 
 .download_text{
-    font-weight: 300;
+    font-weight: 400;
     text-transform: uppercase;
     padding:0 0 0 25px;
     text-align: center;
@@ -166,7 +166,7 @@ nav li, a{
     height: 60px;
     background-color: #2f5597e5;
     border-radius: 12px;
-    box-shadow: 0 0 10px black;
+    box-shadow: 0 0 10px #002e63;
     /* border: rgb(0, 0, 0) 2px solid; */
     display: flex;
     align-items: center; 
@@ -182,7 +182,7 @@ nav li, a{
     padding: 0 15px 0 15px;
     background-color: #2f5597e5;
     border-radius: 12px;
-    box-shadow: 0 0 10px black;
+    box-shadow: 0 0 10px #002e63;
     /* border: rgb(0, 0, 0) 2px solid; */
     display: flex;
     align-items: center; 
@@ -194,6 +194,7 @@ nav li, a{
     text-transform: uppercase;
 }
 .learn_more p, .check_game p{
+    font-weight: 400;
     text-align: center;
 }
 .wrapper{
@@ -510,8 +511,13 @@ padding-left: 25%;
     margin: 10px;
 }
 
+.section_4_2_content_1_2{
+    text-align: center;
+}
+
 .section_4_2_content_2 p{
     text-align: center;
+    font-weight: 500;
 }
 
 .section_4_2_content_3_1{
@@ -647,12 +653,12 @@ padding-left: 25%;
     }
     .section_1_1_content_boxes div div{
         width: 100%;
-        height: 100%;
+        height: auto;
         max-width: 500px;
     }
 
     .section_1_1_timeline_svg{
-        width: 50px;
+        max-width: 50px;
     }
     .timeline_vertical{
         display: inline-block;
