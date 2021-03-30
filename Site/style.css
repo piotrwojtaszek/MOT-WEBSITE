@@ -266,15 +266,18 @@ nav li, a{
 .section_1_1_content_boxes div{
     width: 33%;
     padding:10px 10px 0 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .section_1_1_content_boxes div div{
     width: 100%;
     height: 90%;
-    margin: 0 0 20px 0;
+    margin: 0 0 0 0;
     padding: 10px;
     color: white;
-    background-color:#2f5597;;
+    background-color:#2f5597;
     box-shadow: 0 0 10px #2f5597;
 }
 .section_1_1_content_boxes_1_containter p{
@@ -316,7 +319,13 @@ nav li, a{
     z-index: 0;
 }
 .section_1_1_content_boxes_p{
-padding-left: 25%;
+    width: 100px;
+    text-align: center;
+    font-weight: 700;
+    padding: 5px 10px;
+    background-color: #2f5597;
+    color: white;
+    box-shadow: 0 0 10px #2f5597;
 }
 
 .section_1_2_content{
