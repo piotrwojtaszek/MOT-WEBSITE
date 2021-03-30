@@ -253,7 +253,7 @@
                 </div>
                 <div class="section_4_2_content">
                         <div class="section_4_2_content_1">
-                            <img src="media/multi/syringe.png" alt="">
+                            <img src="media/multi/syringe_512.png" alt="">
                             <ul>
                                 <li><p>Szczepienie</p></li>
                                 <li><p>Pobranie krwi</p></li>
@@ -265,7 +265,7 @@
                             </p>
                         </div>
                         <div class="section_4_2_content_2">
-                            <img src="media/multi/cry_baby.png" alt="">
+                            <img src="media/multi/cry_baby_1024.png" alt="">
                             <p>
                             Jak czuje się dziecko podczas zabiegu?
                             </p>
