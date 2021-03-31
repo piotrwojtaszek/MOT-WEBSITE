@@ -31,8 +31,8 @@
                 <h1>Magic Spheres</h1>
                 <h4>gra rozpraszająca uwagę dziecka</h4>
                 <div class="inner_margin">
-                    <p>Pomóż dziecku podczas zabiegu z nakłuciem igłą! Zmień nastawienie dziecka do zabiegów medycznych! Możesz użyć do tego swojego smartfona już kilka minut przed zabiegiem i w trakcie zabiegu nakłucia igłą. Aplikacja Magic Spheres ma pięć scenerii i kilka poziomów trudności, które zaprojektowano, aby odwrócić uwagę dziecka od bólu. <br>
-                        Pobierz aplikację Magic Spheres i sprawdź, jak rozproszenie uwagi dziecka od ukłucia igłą, zmniejsza jego ból i stres. 
+                    <p>Pomóż dziecku podczas zabiegu z nakłuciem igłą! Zmień nastawienie dziecka do zabiegów medycznych! Możesz użyć do tego swojego smartfona już kilka minut przed zabiegiem i w trakcie zabiegu nakłucia igłą. Aplikacja <b>Magic Spheres</b> ma pięć scenerii i kilka poziomów trudności, które <b>zaprojektowano, aby odwrócić uwagę dziecka od bólu. </b> <br>
+                    Pobierz aplikację Magic Spheres i <b>sprawdź, jak rozproszenie uwagi dziecka od ukłucia igłą, zmniejsza jego ból i stres.</b>
                     </p>
                     <div class="download_containter">
                         <div class="download_text">
@@ -72,7 +72,7 @@
                     <div class="section_1_1_content">
                         <div class="section_1_1_content_title">
                             <p>
-                                Naukowcy z Instytutu Psychologii Uniwersytetu Wrocławskiego od prawie dekady prowadzą badania nad odwracaniem uwagi od krótkotrwałego bólu.
+                            Naukowcy z Instytutu Psychologii Uniwersytetu Wrocławskiego od prawie dekady prowadzą badania nad odwracaniem uwagi od krótkotrwałego bólu.
                             </p>
                         </div>
                         <div class="section_1_1_content_timeline">
@@ -80,7 +80,7 @@
                                 <div class="section_1_1_content_boxes_1">
                                     <div class="section_1_1_content_boxes_1_containter">
                                         <p>
-                                        Wyniki ostatnich badań wykazały, że autorska gra wymagająca jednoczesnego śledzenia wielu obiektów (mocno angażująca uwagę dziecka):
+                                            Wyniki ostatnich badań wykazały, że autorska gra wymagająca jednoczesnego śledzenia wielu obiektów (mocno angażująca uwagę dziecka):
                                         </p>
                                         <ul>
                                             <li>
@@ -90,7 +90,7 @@
                                             </li>
                                             <li>
                                                 <p>
-                                                poziom stresu zmniejszył się o 73% w grupie wszystkich 39 dzieci 6.
+                                                poziom stresu zmniejszył się o 73% w grupie wszystkich 39 dzieci <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="6"></span>.
                                                 </p>
                                             </li>
                                         </ul>
@@ -113,7 +113,7 @@
                                             </li>
                                             <li>
                                                 <p>
-                                                Między grupami VR zauważono tendencję do większej redukcji bólu i stresu u osób aktywnie grających podczas zabiegu 7.
+                                                Między grupami VR zauważono tendencję do większej redukcji bólu i stresu u osób aktywnie grających podczas zabiegu <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="7"></span>.
                                                 </p>
                                             </li>
                                         </ul>
@@ -146,12 +146,12 @@
                     <div class="section_1_2_content">
                         <div class="section_1_2_content_child1">
                             <p>
-                            Magic Spheres stanowi odpowiedź na potrzeby minimalizowania stresu i leczenia bólu u dzieci podczas zabiegów igłowych. Efekty wcześniejszych badań VR4Health Lab wskazują na duży potencjał tej autorskiej gry w rozpraszaniu uwagi dzieci od bodźców bólowych.
+                            Magic Spheres stanowi odpowiedź na potrzeby minimalizowania stresu i leczenia bólu u dzieci podczas zabiegów igłowych. Efekty wcześniejszych badań VR4Health Lab wskazują na duży potencjał tej autorskiej gry w rozpraszaniu uwagi dzieci od bodźców bólowych. 
                             </p>
                         </div>
                         <div class="section_1_2_content_child2">
                             <p>
-                            Naukowcy wciąż sprawdzają czy zastosowanie VR jest skuteczniejsze od stosowania innych technologii cyfrowych8, 9, dlatego grę zaprojektowano w środowisku 2D. Przeciwbólową skuteczność - podczas procedur pobierania krwi - potwierdzono zarówno dla gier w VR 10, 11, jak i przy użyciu innych technologii cyfrowych 12, 13.
+                            Naukowcy wciąż sprawdzają czy zastosowanie VR jest skuteczniejsze od stosowania innych technologii cyfrowych8, 9, dlatego grę zaprojektowano w środowisku 2D. Przeciwbólową skuteczność - podczas procedur pobierania krwi - potwierdzono zarówno dla gier w VR <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="10"></span> , <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="11"></span> , jak i przy użyciu innych technologii cyfrowych <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="12"></span> ,<span onclick="tooglePopupOn(this.id)" class="link-toogle" id="13"></span>.
                             </p>
                         </div>
                         <div class="section_1_2_content_child3">
@@ -184,16 +184,16 @@
                 </div>
                 <div class="section_3_1_content">
                     <div class="section_3_1_content_1">
-                        <p>W Magic Spheres wykorzystano mechanizm przeciwbólowego działania gry, który opiera się na odwróceniu uwagi dziecka od bodźców bólowych. Efekt przeciwbólowy jest tym silniejszy, im bardziej uwaga dziecka zaangażowana jest w bodźce, które odciągają uwagę od zabiegu. Aby osiągnąć ten cel, gra została opracowana w oparciu o wspomnianą już zasadę śledzenia wielu obiektów, która bardziej niż inne gry angażuje uwagę dziecka. Ta metoda różni się od większości innych, które zostały zastosowane do badania rozpraszania uwagi. Po pierwsze, wymaga ciągłej, nieprzerwanej uwagi, a nie krótkotrwałych przesunięć uwagi. Po drugie, wymaga jednoczesnego zwracania uwagi na wiele obiektów równocześnie14. Metoda śledzenia wielu obiektów została już przetestowana podczas badania uwagi w różnych grupach wiekowych, w tym u małych dzieci.
-                        <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="15"></span> 
+                        <p>W Magic Spheres wykorzystano mechanizm przeciwbólowego działania gry, który opiera się na odwróceniu uwagi dziecka od bodźców bólowych. Efekt przeciwbólowy jest tym silniejszy, im bardziej uwaga dziecka zaangażowana jest w bodźce, które odciągają uwagę od zabiegu. Aby osiągnąć ten cel, gra została opracowana w oparciu o wspomnianą już zasadę śledzenia wielu obiektów, która bardziej niż inne gry angażuje uwagę dziecka. Ta metoda różni się od większości innych, które zostały zastosowane do badania rozpraszania uwagi. Po pierwsze, wymaga ciągłej, nieprzerwanej uwagi, a nie krótkotrwałych przesunięć uwagi. Po drugie, wymaga jednoczesnego zwracania uwagi na wiele obiektów równocześnie<span onclick="tooglePopupOn(this.id)" class="link-toogle" id="14"></span>. Metoda śledzenia wielu obiektów została już przetestowana podczas badania uwagi w różnych grupach wiekowych, w tym u małych dzieci<span onclick="tooglePopupOn(this.id)" class="link-toogle" id="15"></span>. 
                         </p>
                     </div>
                     <div class="section_3_1_content_2">
                         <p class="section_3_1_content_2_1">
-                        Gra została zaprojektowana w taki sposób, aby umożliwić jej zastosowanie dla dzieci w różnym wieku. Magic Spheres polega na zapamiętaniu kilku krótko migających elementów, a następnie odnalezieniu ich wśród innych poruszających się obiektów. Gra składa się z kilku scen, a każda scena ma inne tło i liczbę obiektów latających, aby z każdym poziomem podtrzymywać zainteresowanie dziecka i zwiększać szansę na odwrócenie uwagi od bólu. 
+                        Gra została zaprojektowana w taki sposób, aby umożliwić jej zastosowanie dla dzieci w różnym wieku. Magic Spheres polega na zapamiętaniu kilku krótko migających elementów, a następnie odnalezieniu ich wśród innych poruszających się obiektów. Gra składa się z kilku scen, a każda scena ma inne tło i liczbę obiektów latających, aby z każdym poziomem podtrzymywać zainteresowanie dziecka i zwiększać szansę na odwrócenie uwagi od bólu.  
                         </p>
+                        <div class="section_3_1_content_2_divider"></div>
                         <p class="section_3_1_content_2_2">
-                        Gra opracowana jest specyficznie pod kątem zastosowania jej podczas krótkotrwałego, bolesnego zabiegu, dlatego powinna być stosowana tylko do tego celu: jako kilkuminutowe przećwiczenie gry, bezpośrednio przed zabiegiem oraz przez kilka minut trwania zabiegu. Umożliwi to zachowanie efektu nowości i maksymalizację skupienia uwagi dziecka na wykonywanym w grze zadaniu – im lepiej dziecko opanuje grę, tym słabszy może być efekt jej działania w odwracaniu uwagi od bólu.
+                        Grę opracowano specyficznie pod kątem zastosowania jej podczas krótkotrwałego, bolesnego zabiegu, dlatego powinna być stosowana tylko do tego celu: jako kilkuminutowe przećwiczenie gry, bezpośrednio przed zabiegiem oraz przez kilka minut trwania zabiegu. Umożliwi to zachowanie efektu nowości i maksymalizację skupienia uwagi dziecka na wykonywanym w grze zadaniu – im lepiej dziecko opanuje grę, tym słabszy może być efekt jej działania w odwracaniu uwagi od bólu.
                         </p>
                     </div>
                     <div class="section_3_1_content_3">
@@ -247,7 +247,7 @@
                     </div>
                     <div class="section_4_1_content">
                         <div class="section_4_1_content_1">
-                            <p> <b>Ból</b> jest nieprzyjemnym doznaniem zmysłowym i emocjonalnym, które odczuwają już niemowlęta. Doświadczanie bólu jest subiektywne i zindywidualizowane, a tolerancja na ból rozwija się od wczesnego dzieciństwa – od pierwszych doznawanych obrażeń ciała1. Dzieci od urodzenia narażone są na ból spowodowany nakłuciem igłą. U zdrowych dzieci jest to najczęściej szczepienie, które może być wykonywane nawet kilkanaście razy do 18 roku życia. U dzieci wymagających leczenia zdarza się to jeszcze częściej w związku z pobieraniem krwi, zastrzykami czy wkłuciami dożylnymi. Poza  negatywnym wpływem na dziecko – ból i niepokój dziecka sprawiają, że zabiegi z użyciem igły są bardzo stresujące dla rodziców dziecka i pracowników służby zdrowia3.
+                            <p> <b>Ból</b> jest nieprzyjemnym doznaniem zmysłowym i emocjonalnym, które odczuwają już niemowlęta. Doświadczanie bólu jest subiektywne i zindywidualizowane, a tolerancja na ból rozwija się od wczesnego dzieciństwa – od pierwszych doznawanych obrażeń ciała<span onclick="tooglePopupOn(this.id)" class="link-toogle" id="1"></span>. Dzieci od urodzenia narażone są na ból spowodowany nakłuciem igłą. U zdrowych dzieci jest to najczęściej szczepienie, które może być wykonywane nawet kilkanaście razy do 18 roku życia. U dzieci wymagających leczenia zdarza się to jeszcze częściej w związku z pobieraniem krwi, zastrzykami czy wkłuciami dożylnymi. Poza  negatywnym wpływem na dziecko – ból i niepokój dziecka sprawiają, że zabiegi z użyciem igły są bardzo stresujące dla rodziców dziecka i pracowników służby zdrowia<span onclick="tooglePopupOn(this.id)" class="link-toogle" id="13"></span>.
                             </p>
                         </div>
                     </div>
@@ -277,9 +277,9 @@
                                 <li><p>wywoływać negatywne nastawienie do badania</p></li>
                                 <li><p>zniechęcać do zabiegów medycznych</p></li>
                                 <li><p>powodować unikanie badań czy leczenia z powodu strachu przed nakłuciem</p></li>
-                                <li><p>nasilać lęk.</p></li>
+                                <li><p>nasilać lęk</p></li>
                                 <li><p>wywoływać fobię przed igłami</p></li>
-                                <li><p>obniżać tolerancję na ból  2</p></li>
+                                <li><p>obniżać tolerancję na ból<span onclick="tooglePopupOn(this.id)" class="link-toogle" id="2"></span></p></li>
                             </ul>
                         </div>
                     </div>

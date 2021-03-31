@@ -3,6 +3,7 @@ function tooglePopupOn(clicked_id){
     var content = linkJSON[clicked_id];
     document.getElementById("popup-title").innerHTML="Source link:";
     document.getElementById("popup-link-p").innerHTML=content[0];
+    document.getElementById("popup-link").setAttribute('href', content[0]);
     document.getElementById("popup-content").innerHTML=content[1];
 }
 function tooglePopupOff(){
