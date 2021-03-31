@@ -3,12 +3,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;400;500;700;900&family=Roboto:wght@100;300;400;500;700&display=swap" rel="stylesheet">
     <title>Magic Spheres</title>
 </head>
 <body>
-
     <div class="header" id="sticky">
         <a href="#section_0">
             <img class="logo" src="media/multi/logo.png"></img>
@@ -184,7 +184,8 @@
                 </div>
                 <div class="section_3_1_content">
                     <div class="section_3_1_content_1">
-                        <p>W Magic Spheres wykorzystano mechanizm przeciwbólowego działania gry, który opiera się na odwróceniu uwagi dziecka od bodźców bólowych. Efekt przeciwbólowy jest tym silniejszy, im bardziej uwaga dziecka zaangażowana jest w bodźce, które odciągają uwagę od zabiegu. Aby osiągnąć ten cel, gra została opracowana w oparciu o wspomnianą już zasadę śledzenia wielu obiektów, która bardziej niż inne gry angażuje uwagę dziecka. Ta metoda różni się od większości innych, które zostały zastosowane do badania rozpraszania uwagi. Po pierwsze, wymaga ciągłej, nieprzerwanej uwagi, a nie krótkotrwałych przesunięć uwagi. Po drugie, wymaga jednoczesnego zwracania uwagi na wiele obiektów równocześnie14. Metoda śledzenia wielu obiektów została już przetestowana podczas badania uwagi w różnych grupach wiekowych, w tym u małych dzieci15. 
+                        <p>W Magic Spheres wykorzystano mechanizm przeciwbólowego działania gry, który opiera się na odwróceniu uwagi dziecka od bodźców bólowych. Efekt przeciwbólowy jest tym silniejszy, im bardziej uwaga dziecka zaangażowana jest w bodźce, które odciągają uwagę od zabiegu. Aby osiągnąć ten cel, gra została opracowana w oparciu o wspomnianą już zasadę śledzenia wielu obiektów, która bardziej niż inne gry angażuje uwagę dziecka. Ta metoda różni się od większości innych, które zostały zastosowane do badania rozpraszania uwagi. Po pierwsze, wymaga ciągłej, nieprzerwanej uwagi, a nie krótkotrwałych przesunięć uwagi. Po drugie, wymaga jednoczesnego zwracania uwagi na wiele obiektów równocześnie14. Metoda śledzenia wielu obiektów została już przetestowana podczas badania uwagi w różnych grupach wiekowych, w tym u małych dzieci.
+                        <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="15"></span> 
                         </p>
                     </div>
                     <div class="section_3_1_content_2">
@@ -305,9 +306,21 @@
         <section id="section_7">
             <h1>Kontakt</h1>
         </section>
+
+    </div>
+    <div class="popup" id="popup-1">
+        <div class="overlay">
+            <div class="popup-content">
+                <div class="close-btn" onclick="tooglePopupOff()" >&times;</div>
+                <p id="popup-title">TITLE</p>
+                <a id="popup-link" href="http://magicspheres.uni.wroc.pl/"><p id="popup-link-p">http://magicspheres.uni.wroc.pl/</p></a>
+                <p id="popup-content">
+                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Obcaecati repellat ratione ut iure, temporibus optio dignissimos laborum aut expedita ab et error, aliquid repellendus praesentium ex eius, magni reprehenderit ipsa doloribus tenetur blanditiis. Explicabo ea impedit doloribus libero eaque possimus, omnis id optio aliquid necessitatibus! A rerum unde magnam ad.
+                </p>
+            </div>
+        </div>
     </div>
 
-
-    <!-- <script src="script.js"></script> -->
+    <script src="script.js"></script>
 </body>
 </html>
