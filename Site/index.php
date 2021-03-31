@@ -10,18 +10,22 @@
 </head>
 <body>
     <div class="header" id="sticky">
-        <a href="#section_0">
-            <img class="logo" src="media/multi/logo.png"></img>
-        </a>
+        <div class="header_mail">Mail do kontaktu: magic.spheres@uwr.edu.pl</div>
+        <div class="header_container">
+            <a href="#section_0">
+                <img class="logo" src="media/multi/logo.png"></img>
+            </a>
             <nav class="nav_links">
                 <li><a href="#section_1">O grze</a></li>
                 <li><a href="#section_2">Instrukcja gry</a></li>
                 <li><a href="#section_3">Dlaczego warto</a></li>
                 <li><a href="#section_4">O bólu</a></li>
                 <li><a href="#section_5">O nas</a></li>
-                <li><a href="#section_6">Zaufali nam</a></li>
+                <!-- <li><a href="#section_6">Zaufali nam</a></li> -->
                 <li><a href="#section_7">Kontakt</a></li>
             </nav>
+        </div>
+
     </div>
     <div class="section_0" id="section_0">
         <video src="media/multi/gameplay_loop.mp4" playsinline autoplay muted loop></video>
@@ -151,7 +155,7 @@
                         </div>
                         <div class="section_1_2_content_child2">
                             <p>
-                            Naukowcy wciąż sprawdzają czy zastosowanie VR jest skuteczniejsze od stosowania innych technologii cyfrowych8, 9, dlatego grę zaprojektowano w środowisku 2D. Przeciwbólową skuteczność - podczas procedur pobierania krwi - potwierdzono zarówno dla gier w VR <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="10"></span> , <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="11"></span> , jak i przy użyciu innych technologii cyfrowych <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="12"></span> ,<span onclick="tooglePopupOn(this.id)" class="link-toogle" id="13"></span>.
+                            Naukowcy wciąż sprawdzają czy zastosowanie VR jest skuteczniejsze od stosowania innych technologii cyfrowych<span onclick="tooglePopupOn(this.id)" class="link-toogle" id="8"></span>, <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="9"></span>, dlatego grę zaprojektowano w środowisku 2D. Przeciwbólową skuteczność - podczas procedur pobierania krwi - potwierdzono zarówno dla gier w VR <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="10"></span> , <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="11"></span> , jak i przy użyciu innych technologii cyfrowych <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="12"></span> ,<span onclick="tooglePopupOn(this.id)" class="link-toogle" id="13"></span>.
                             </p>
                         </div>
                         <div class="section_1_2_content_child3">
@@ -293,16 +297,63 @@
                 </div>
                 <div class="section_5_1_content">
                     <p>
-                    Magic Spheres została zaprojektowana w oparciu o badania naukowe przeprowadzone przez zespół badaczy z Labolatorium VR4Health w Instytucie Psychologii Uniwersytetu Wrocławskiego
+                    Gra <i> Magic Spheres</i> została zaprojektowana przez zespół badaczy z Laboratorium VR4Health w Instytucie Psychologii Uniwersytetu Wrocławskiego. 
+                    <br><br>
+Zespół naukowców od kilku lat prowadzi badania nad zastosowaniem wirtualnej rzeczywistości w leczeniu bólu, tworzy narzędzia stosowane w badaniach naukowych w Polsce i Norwegii oraz popularyzuje wiedzę na temat możliwości zastosowania nowych technologii w różnych obszarach psychologii.
                     </p>
+                    <p>
+                    <i> Magic Spheres </i> jest efektem wieloletniej pracy i doświadczenia w badaniach eksperymentalnych – laboratoryjnych i klinicznych – nad możliwościami zastosowania nowych technologii w psychologii
+                    </p>
+                </div>
+                <div class="section_5_2_content">
+                    <div class="section_5_2_content_1">
+                        <p>Nowe technologie pod okiem badaczy</p>
+                        <p>
+                            Technologia VR
+                            Gry 2D
+                            HRV Biofeedback
+                            Treningi oddechowe
+                        </p>
+                    </div>
+                    <div class="section_5_2_content_2">
+                        <p>Badane obszary zastosowań </p>
+                        <ul>
+                            <li>
+                                <p>Redukcja bólu krótkotrwałego u dzieci</p>
+                            </li>
+                            <li>
+                                <p>Redukcja bólu chronicznego u osób dorosłych i seniorów</p>
+                            </li>
+                            <li>
+                                <p>Treningi poznawcze dla seniorów</p>
+                            </li>
+                            <li>
+                                <p>Percepcja własnego ciała</p>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="section_5_2_content_3">
+                        <p>Kto może skorzystać z efektów badań?</p>
+                        <ul>
+                            <li>
+                                <p>Dzieci</p>
+                            </li>
+                            <li>
+                                <p>Osoby dorosłe</p>
+                            </li>
+                            <li>
+                                <p>Seniorzy</p>
+                            </li>
+                        </ul>
+                    </div>
                 </div>
             </div>
         </section>
-        <section id="section_6">
+        <!-- <section id="section_6">
             <h1>
                 Zaufali nam
             </h1>
-        </section>
+        </section> -->
         <section id="section_7">
             <h1>Kontakt</h1>
         </section>
