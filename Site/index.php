@@ -94,7 +94,7 @@
                                             </li>
                                             <li>
                                                 <p>
-                                                poziom stresu zmniejszył się o 73% w grupie wszystkich 39 dzieci <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="6"></span>.
+                                                poziom stresu zmniejszył się o 73% w grupie wszystkich 39 dzieci. <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="6"></span>
                                                 </p>
                                             </li>
                                         </ul>
@@ -117,7 +117,7 @@
                                             </li>
                                             <li>
                                                 <p>
-                                                Między grupami VR zauważono tendencję do większej redukcji bólu i stresu u osób aktywnie grających podczas zabiegu <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="7"></span>.
+                                                Między grupami VR zauważono tendencję do większej redukcji bólu i stresu u osób aktywnie grających podczas zabiegu. <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="7"></span>
                                                 </p>
                                             </li>
                                         </ul>
@@ -266,7 +266,7 @@
                                 <li><p>Zabieg dentystyczny</p></li>
                             </ul>
                             <p class="section_4_2_content_1_2">
-                            Dla dzieci nakłucie żyły jest jednym z najbardziej przerażających zabiegów.
+                                <b>Dla dzieci nakłucie żyły jest jednym z najbardziej przerażających zabiegów.</b>
                             </p>
                         </div>
                         <div class="section_4_2_content_2">
@@ -276,7 +276,7 @@
                             </p>
                         </div>
                         <div class="section_4_2_content_3">
-                            <p class="section_4_2_content_3_1">Nieleczony ból i stres podczas zabiegów może:</p>
+                            <p class="section_4_2_content_3_1"><b>Nieleczony ból i stres podczas zabiegów może:</b></p>
                             <ul>
                                 <li><p>wywoływać negatywne nastawienie do badania</p></li>
                                 <li><p>zniechęcać do zabiegów medycznych</p></li>
@@ -368,6 +368,14 @@ Zespół naukowców od kilku lat prowadzi badania nad zastosowaniem wirtualnej r
         </section> -->
         <section id="section_7">
             <h1>Kontakt</h1>
+            <div class="section_7_content">
+                <div class="section_7_content_containter_1">
+                    <p class="section_7_content_1">VR4Health Lab</p>
+                    <p class="section_7_content_2">Instytut Psychologii, Uniwersytet Wrocławski</p>
+                    <p class="section_7_content_3">ul. J. Wł. Dawida 1, 50-527 Wrocław</p>
+                </div>
+                <p class="section_7_content_4">magic.spheres@uwr.edu.pl</p>
+            </div>
         </section>
 
     </div>
