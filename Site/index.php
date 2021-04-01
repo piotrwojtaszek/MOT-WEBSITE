@@ -144,7 +144,7 @@
                 <div class="section_1_2">
                     <div class="section_1_2_title">
                         <h1>
-                            Dlaczego stworzyliśmy Magic Spheres?
+                            Dlaczego stworzyliśmy <br> Magic Spheres?
                         </h1>
                     </div>
                     <div class="section_1_2_content">
@@ -183,7 +183,7 @@
             <div class="section_3_1">
                 <div class="section_3_1_title">
                     <h1>
-                    Dlaczego warto pobrać Magic Spheres?
+                    Dlaczego warto pobrać <br>Magic Spheres?
                     </h1>
                 </div>
                 <div class="section_3_1_content">
@@ -307,44 +307,56 @@ Zespół naukowców od kilku lat prowadzi badania nad zastosowaniem wirtualnej r
                 </div>
                 <div class="section_5_2_content">
                     <div class="section_5_2_content_1">
-                        <p>Nowe technologie pod okiem badaczy</p>
-                        <p>
-                            Technologia VR
-                            Gry 2D
-                            HRV Biofeedback
-                            Treningi oddechowe
-                        </p>
+                        <div class="section_5_2_content_title">
+                            <p>Nowe technologie pod okiem badaczy</p>
+                        </div>
+                        <div class="section_5_2_content_body">
+                            <ul>
+                                <li><p>Technologia VR</p></li>
+                                <li><p> <b>Gry 2D</b></p></li>
+                                <li><p>HRV Biofeedback</p></li>
+                                <li><p>Treningi oddechowe</p></li>
+                            </ul>
+                        </div>
                     </div>
                     <div class="section_5_2_content_2">
-                        <p>Badane obszary zastosowań </p>
-                        <ul>
-                            <li>
-                                <p>Redukcja bólu krótkotrwałego u dzieci</p>
-                            </li>
-                            <li>
-                                <p>Redukcja bólu chronicznego u osób dorosłych i seniorów</p>
-                            </li>
-                            <li>
-                                <p>Treningi poznawcze dla seniorów</p>
-                            </li>
-                            <li>
-                                <p>Percepcja własnego ciała</p>
-                            </li>
-                        </ul>
+                        <div class="section_5_2_content_title">
+                            <p>Badane obszary zastosowań </p>
+                        </div>
+                        <div class="section_5_2_content_body">
+                            <ul>
+                                <li>
+                                    <p><b>Redukcja bólu krótkotrwałego u dzieci</b></p>
+                                </li>
+                                <li>
+                                    <p>Redukcja bólu chronicznego u osób dorosłych i seniorów</p>
+                                </li>
+                                <li>
+                                    <p>Treningi poznawcze dla seniorów</p>
+                                </li>
+                                <li>
+                                    <p>Percepcja własnego ciała</p>
+                                </li>
+                            </ul>
+                        </div>
                     </div>
                     <div class="section_5_2_content_3">
-                        <p>Kto może skorzystać z efektów badań?</p>
-                        <ul>
-                            <li>
-                                <p>Dzieci</p>
-                            </li>
-                            <li>
-                                <p>Osoby dorosłe</p>
-                            </li>
-                            <li>
-                                <p>Seniorzy</p>
-                            </li>
-                        </ul>
+                        <div class="section_5_2_content_title">
+                            <p>Kto może skorzystać z efektów badań?</p> 
+                        </div>
+                        <div class="section_5_2_content_body">
+                            <ul>
+                                <li>
+                                    <p><b>Dzieci</b></p>
+                                </li>
+                                <li>
+                                    <p>Osoby dorosłe</p>
+                                </li>
+                                <li>
+                                    <p>Seniorzy</p>
+                                </li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </div>
