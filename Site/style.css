@@ -623,6 +623,34 @@ html {
     width: 100%;
 }
 
+.section_4_3_title{
+    text-align: center;
+    margin-top: 40px;
+}
+
+.section_4_3_content_1{
+    text-align: center;
+}
+
+.section_4_3_content_cotainter{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.section_4_3_content_cotainter div{
+    width: 20%;
+    min-width: 200px;
+    padding: 10px;
+    background-color: white;
+}
+
+.section_4_3_content_cotainter div:nth-child(2n)
+{
+    background-color: cornflowerblue;
+}
+
 .section_5_1_title{
     text-align: center;
 }

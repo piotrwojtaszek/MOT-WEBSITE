@@ -243,50 +243,86 @@
             </div>
         </section>
         <section id="section_4">
-            <div class="section_4_1">
-                    <div class="section_4_1_title">
+        <div class="section_4_1">
+                <div class="section_4_1_title">
+                    <h1>
+                    Kilka słów o bólu, dziecięcych lękach i sposobach na odczarowanie lęku przed ukłuciem igłą...
+                    </h1>
+                </div>
+                <div class="section_4_1_content">
+                    <div class="section_4_1_content_1">
+                        <p> <b>Ból</b> jest nieprzyjemnym doznaniem zmysłowym i emocjonalnym, które odczuwają już niemowlęta. Doświadczanie bólu jest subiektywne i zindywidualizowane, a tolerancja na ból rozwija się od wczesnego dzieciństwa – od pierwszych doznawanych obrażeń ciała <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="1"></span>. Dzieci od urodzenia narażone są na ból spowodowany nakłuciem igłą. U zdrowych dzieci jest to najczęściej szczepienie, które może być wykonywane nawet kilkanaście razy do 18 roku życia. U dzieci wymagających leczenia zdarza się to jeszcze częściej w związku z pobieraniem krwi, zastrzykami czy wkłuciami dożylnymi. „Ból i niepokój dziecka – poza negatywnym wpływem na dziecko – sprawia, że zabiegi z użyciem igły są bardzo stresujące dla rodziców i pracowników służby zdrowia <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="13"></span>.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="section_4_2_content">
+                    <div class="section_4_2_content_1">
+                        <img src="media/multi/syringe_512.png" alt="">
+                        <ul>
+                            <li><p>Szczepienie</p></li>
+                            <li><p>Pobranie krwi</p></li>
+                            <li><p>Leczenie szpitalne</p></li>
+                            <li><p>Zabieg dentystyczny</p></li>
+                        </ul>
+                        <p class="section_4_2_content_1_2">
+                            <b>Dla dzieci ukłucie żyły jest jednym z najbardziej przerażających zabiegów.</b>
+                        </p>
+                    </div>
+                    <div class="section_4_2_content_2">
+                        <img src="media/multi/cry_baby_1024.png" alt="">
+                        <p>
+                        Jak czuje się dziecko podczas zabiegu?
+                        </p>
+                    </div>
+                    <div class="section_4_2_content_3">
+                        <p class="section_4_2_content_3_1"><b>Nieleczony ból i stres podczas zabiegów może:</b></p>
+                        <ul>
+                            <li><p>wywoływać negatywne nastawienie do badania</p></li>
+                            <li><p>zniechęcać do zabiegów medycznych</p></li>
+                            <li><p>powodować unikanie badań czy leczenia z powodu strachu przed ukłuciem</p></li>
+                            <li><p>nasilać lęk</p></li>
+                            <li><p>wywoływać fobię przed igłami</p></li>
+                            <li><p>obniżać tolerancję na ból <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="2"></span></p></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="section_4_3">
+                    <div class="section_4_3_title">
                         <h1>
-                        Kilka słów o bólu, dziecięcych lękach i sposobach na odczarowanie lęku przed ukłuciem igłą...
+                            Jak ukoić ból i niepokój dziecka podczas zabiegu?
                         </h1>
                     </div>
-                    <div class="section_4_1_content">
-                        <div class="section_4_1_content_1">
-                            <p> <b>Ból</b> jest nieprzyjemnym doznaniem zmysłowym i emocjonalnym, które odczuwają już niemowlęta. Doświadczanie bólu jest subiektywne i zindywidualizowane, a tolerancja na ból rozwija się od wczesnego dzieciństwa – od pierwszych doznawanych obrażeń ciała <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="1"></span>. Dzieci od urodzenia narażone są na ból spowodowany nakłuciem igłą. U zdrowych dzieci jest to najczęściej szczepienie, które może być wykonywane nawet kilkanaście razy do 18 roku życia. U dzieci wymagających leczenia zdarza się to jeszcze częściej w związku z pobieraniem krwi, zastrzykami czy wkłuciami dożylnymi. „Ból i niepokój dziecka – poza negatywnym wpływem na dziecko – sprawia, że zabiegi z użyciem igły są bardzo stresujące dla rodziców i pracowników służby zdrowia <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="13"></span>.
+                </div>
+                <div class="section_4_3_content">
+                    <div class="section_4_3_content_1">
+                        <p>
+                        Ból i stres związany z zabiegami igłowymi można zmniejszać przy pomocy różnych metod. Spośród interwencji psychologicznych potwierdzono skuteczność w stosowaniu dystrakcji bólu (odwróceniu uwagi od bólu), hipnozy, połączenia technik relaksującego oddechu i innych technik pochodzących z terapii poznawczo-behawioralnej <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="4"></span>. ​
+W przypadku planowych zabiegów z igłą zaleca się, aby każdemu dziecku zapewnić jednocześnie kilka różnych form obniżania bólu, takich jak: 
+
+                        </p>
+                    </div>
+                    <div class="section_4_3_content_cotainter">
+                        <div class="section_4_3_content_cotainter_1">
+                            <img src="" alt="">
+                            <p>
+                                Niemowlę: karmienie piersią podczas zabiegu lub podanie słodkiego płynu do picia np. z sacharozą <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="5"></span>
                             </p>
+                        </div>
+                        <div class="section_4_3_content_cotainter_2">
+                            <img src="" alt="">
+                            <p>Komfortowa pozycja podczas zabiegu</p>
+                        </div>
+                        <div class="section_4_3_content_cotainter_3">
+                            <img src="" alt="">
+                            <p>Znieczulenie miejscowe</p>
+                        </div>
+                        <div class="section_4_3_content_cotainter_4">
+                            <img src="" alt="">
+                            <p>Dobrana do wieku dystrakcja uwagi</p>
                         </div>
                     </div>
                 </div>
-                <div class="section_4_2_content">
-                        <div class="section_4_2_content_1">
-                            <img src="media/multi/syringe_512.png" alt="">
-                            <ul>
-                                <li><p>Szczepienie</p></li>
-                                <li><p>Pobranie krwi</p></li>
-                                <li><p>Leczenie szpitalne</p></li>
-                                <li><p>Zabieg dentystyczny</p></li>
-                            </ul>
-                            <p class="section_4_2_content_1_2">
-                                <b>Dla dzieci ukłucie żyły jest jednym z najbardziej przerażających zabiegów.</b>
-                            </p>
-                        </div>
-                        <div class="section_4_2_content_2">
-                            <img src="media/multi/cry_baby_1024.png" alt="">
-                            <p>
-                            Jak czuje się dziecko podczas zabiegu?
-                            </p>
-                        </div>
-                        <div class="section_4_2_content_3">
-                            <p class="section_4_2_content_3_1"><b>Nieleczony ból i stres podczas zabiegów może:</b></p>
-                            <ul>
-                                <li><p>wywoływać negatywne nastawienie do badania</p></li>
-                                <li><p>zniechęcać do zabiegów medycznych</p></li>
-                                <li><p>powodować unikanie badań czy leczenia z powodu strachu przed ukłuciem</p></li>
-                                <li><p>nasilać lęk</p></li>
-                                <li><p>wywoływać fobię przed igłami</p></li>
-                                <li><p>obniżać tolerancję na ból <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="2"></span></p></li>
-                            </ul>
-                        </div>
-                    </div>
         </section>
         <section id="section_5">
         <div class="section_5_1">
