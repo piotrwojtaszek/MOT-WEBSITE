@@ -94,7 +94,7 @@
                                             </li>
                                             <li>
                                                 <p>
-                                                poziom stresu zmniejszył się o 73% w grupie wszystkich 39 dzieci. <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="6"></span>
+                                                poziom stresu zmniejszył się o 73% w grupie wszystkich 39 dzieci <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="6"></span>.
                                                 </p>
                                             </li>
                                         </ul>
@@ -117,7 +117,7 @@
                                             </li>
                                             <li>
                                                 <p>
-                                                Między grupami VR zauważono tendencję do większej redukcji bólu i stresu u osób aktywnie grających podczas zabiegu. <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="7"></span>
+                                                Między grupami VR zauważono tendencję do większej redukcji bólu i stresu u osób aktywnie grających podczas zabiegu <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="7"></span>.
                                                 </p>
                                             </li>
                                         </ul>
@@ -155,12 +155,12 @@
                         </div>
                         <div class="section_1_2_content_child2">
                             <p>
-                            Naukowcy wciąż sprawdzają czy zastosowanie VR jest skuteczniejsze od stosowania innych technologii cyfrowych<span onclick="tooglePopupOn(this.id)" class="link-toogle" id="8"></span>, <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="9"></span>, dlatego grę zaprojektowano w środowisku 2D. Przeciwbólową skuteczność - podczas procedur pobierania krwi - potwierdzono zarówno dla gier w VR <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="10"></span> , <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="11"></span> , jak i przy użyciu innych technologii cyfrowych <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="12"></span> ,<span onclick="tooglePopupOn(this.id)" class="link-toogle" id="13"></span>.
+                            Naukowcy wciąż sprawdzają czy zastosowanie VR jest skuteczniejsze od stosowania innych technologii cyfrowych <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="8"></span>, <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="9"></span>, dlatego grę zaprojektowano w środowisku 2D. Przeciwbólową skuteczność - podczas procedur pobierania krwi - potwierdzono zarówno dla gier w VR <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="10"></span>, <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="11"></span>,<br> jak i przy użyciu innych technologii cyfrowych <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="12"></span>, <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="13"></span>.
                             </p>
                         </div>
                         <div class="section_1_2_content_child3">
                             <p>
-                            Mając na celu możliwie najprostszą formę korzystania z gry, została ona zaprogramowana specjalnie do użytku na smartfonie i tablecie, tak aby zarówno rodzice, jak i pracownicy służby zdrowia mieli do niej nieograniczony i niezależny dosęp, bez ponoszenia dodatkowych kosztów. 
+                            Mając na celu możliwie najprostszą formę korzystania z gry, została ona zaprogramowana specjalnie do użytku na smartfonie i tablecie, tak aby zarówno rodzice, jak i pracownicy służby zdrowia mieli do niej nieograniczony i niezależny dostęp, bez ponoszenia dodatkowych kosztów. 
                             </p>
                         </div>
                     </div>
@@ -188,7 +188,7 @@
                 </div>
                 <div class="section_3_1_content">
                     <div class="section_3_1_content_1">
-                        <p>W Magic Spheres wykorzystano mechanizm przeciwbólowego działania gry, który opiera się na odwróceniu uwagi dziecka od bodźców bólowych. Efekt przeciwbólowy jest tym silniejszy, im bardziej uwaga dziecka zaangażowana jest w bodźce, które odciągają uwagę od zabiegu. Aby osiągnąć ten cel, gra została opracowana w oparciu o wspomnianą już zasadę śledzenia wielu obiektów, która bardziej niż inne gry angażuje uwagę dziecka. Ta metoda różni się od większości innych, które zostały zastosowane do badania rozpraszania uwagi. Po pierwsze, wymaga ciągłej, nieprzerwanej uwagi, a nie krótkotrwałych przesunięć uwagi. Po drugie, wymaga jednoczesnego zwracania uwagi na wiele obiektów równocześnie<span onclick="tooglePopupOn(this.id)" class="link-toogle" id="14"></span>. Metoda śledzenia wielu obiektów została już przetestowana podczas badania uwagi w różnych grupach wiekowych, w tym u małych dzieci<span onclick="tooglePopupOn(this.id)" class="link-toogle" id="15"></span>. 
+                        <p>W Magic Spheres wykorzystano mechanizm przeciwbólowego działania gry, który opiera się na odwróceniu uwagi dziecka od bodźców bólowych. Efekt przeciwbólowy jest tym silniejszy, im bardziej uwaga dziecka zaangażowana jest w bodźce, które odciągają uwagę od zabiegu. Aby osiągnąć ten cel, gra została opracowana w oparciu o zasadę śledzenia wielu obiektów, która bardziej niż inne gry angażuje uwagę dziecka. Ta metoda różni się od większości innych, które zostały zastosowane do badania rozpraszania uwagi. Po pierwsze, wymaga ciągłej, nieprzerwanej uwagi, a nie krótkotrwałych przesunięć uwagi. Po drugie, wymaga jednoczesnego zwracania uwagi na wiele obiektów równocześnie <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="14"></span>. Metoda śledzenia wielu obiektów została już przetestowana podczas badania uwagi w różnych grupach wiekowych, w tym u małych dzieci <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="15"></span>. 
                         </p>
                     </div>
                     <div class="section_3_1_content_2">
@@ -197,7 +197,7 @@
                         </p>
                         <div class="section_3_1_content_2_divider"></div>
                         <p class="section_3_1_content_2_2">
-                        Grę opracowano specyficznie pod kątem zastosowania jej podczas krótkotrwałego, bolesnego zabiegu, dlatego powinna być stosowana tylko do tego celu: jako kilkuminutowe przećwiczenie gry, bezpośrednio przed zabiegiem oraz przez kilka minut trwania zabiegu. Umożliwi to zachowanie efektu nowości i maksymalizację skupienia uwagi dziecka na wykonywanym w grze zadaniu – im lepiej dziecko opanuje grę, tym słabszy może być efekt jej działania w odwracaniu uwagi od bólu.
+                        Grę opracowano specyficznie pod kątem zastosowania jej podczas krótkotrwałego, bolesnego zabiegu, dlatego powinna być stosowana tylko do tego celu: jako kilkuminutowe przećwiczenie gry, bezpośrednio przed zabiegiem, oraz przez kilka minut trwania zabiegu. Umożliwi to zachowanie efektu nowości i maksymalizację skupienia uwagi dziecka na wykonywanym w grze zadaniu – im lepiej dziecko opanuje grę, tym słabszy może być efekt jej działania w odwracaniu uwagi od bólu.
                         </p>
                     </div>
                     <div class="section_3_1_content_3">
@@ -246,12 +246,12 @@
             <div class="section_4_1">
                     <div class="section_4_1_title">
                         <h1>
-                        Kilka słów o bólu, dziecięcych lękach i sposobach na odczarowanie lęku przed nakłuciem igłą...
+                        Kilka słów o bólu, dziecięcych lękach i sposobach na odczarowanie lęku przed ukłuciem igłą...
                         </h1>
                     </div>
                     <div class="section_4_1_content">
                         <div class="section_4_1_content_1">
-                            <p> <b>Ból</b> jest nieprzyjemnym doznaniem zmysłowym i emocjonalnym, które odczuwają już niemowlęta. Doświadczanie bólu jest subiektywne i zindywidualizowane, a tolerancja na ból rozwija się od wczesnego dzieciństwa – od pierwszych doznawanych obrażeń ciała<span onclick="tooglePopupOn(this.id)" class="link-toogle" id="1"></span>. Dzieci od urodzenia narażone są na ból spowodowany nakłuciem igłą. U zdrowych dzieci jest to najczęściej szczepienie, które może być wykonywane nawet kilkanaście razy do 18 roku życia. U dzieci wymagających leczenia zdarza się to jeszcze częściej w związku z pobieraniem krwi, zastrzykami czy wkłuciami dożylnymi. Poza  negatywnym wpływem na dziecko – ból i niepokój dziecka sprawiają, że zabiegi z użyciem igły są bardzo stresujące dla rodziców dziecka i pracowników służby zdrowia<span onclick="tooglePopupOn(this.id)" class="link-toogle" id="13"></span>.
+                            <p> <b>Ból</b> jest nieprzyjemnym doznaniem zmysłowym i emocjonalnym, które odczuwają już niemowlęta. Doświadczanie bólu jest subiektywne i zindywidualizowane, a tolerancja na ból rozwija się od wczesnego dzieciństwa – od pierwszych doznawanych obrażeń ciała <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="1"></span>. Dzieci od urodzenia narażone są na ból spowodowany nakłuciem igłą. U zdrowych dzieci jest to najczęściej szczepienie, które może być wykonywane nawet kilkanaście razy do 18 roku życia. U dzieci wymagających leczenia zdarza się to jeszcze częściej w związku z pobieraniem krwi, zastrzykami czy wkłuciami dożylnymi. „Ból i niepokój dziecka – poza negatywnym wpływem na dziecko – sprawia, że zabiegi z użyciem igły są bardzo stresujące dla rodziców i pracowników służby zdrowia <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="13"></span>.
                             </p>
                         </div>
                     </div>
@@ -266,7 +266,7 @@
                                 <li><p>Zabieg dentystyczny</p></li>
                             </ul>
                             <p class="section_4_2_content_1_2">
-                                <b>Dla dzieci nakłucie żyły jest jednym z najbardziej przerażających zabiegów.</b>
+                                <b>Dla dzieci ukłucie żyły jest jednym z najbardziej przerażających zabiegów.</b>
                             </p>
                         </div>
                         <div class="section_4_2_content_2">
@@ -280,10 +280,10 @@
                             <ul>
                                 <li><p>wywoływać negatywne nastawienie do badania</p></li>
                                 <li><p>zniechęcać do zabiegów medycznych</p></li>
-                                <li><p>powodować unikanie badań czy leczenia z powodu strachu przed nakłuciem</p></li>
+                                <li><p>powodować unikanie badań czy leczenia z powodu strachu przed ukłuciem</p></li>
                                 <li><p>nasilać lęk</p></li>
                                 <li><p>wywoływać fobię przed igłami</p></li>
-                                <li><p>obniżać tolerancję na ból<span onclick="tooglePopupOn(this.id)" class="link-toogle" id="2"></span></p></li>
+                                <li><p>obniżać tolerancję na ból <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="2"></span></p></li>
                             </ul>
                         </div>
                     </div>
@@ -297,7 +297,7 @@
                 </div>
                 <div class="section_5_1_content">
                     <p>
-                    Gra <i> Magic Spheres</i> została zaprojektowana przez zespół badaczy z Laboratorium VR4Health w Instytucie Psychologii Uniwersytetu Wrocławskiego. 
+                    Gra <i> Magic Spheres</i> została zaprojektowana przez zespół badaczy z Laboratorium VR4Health w <br>Instytucie Psychologii Uniwersytetu Wrocławskiego. 
                     <br><br>
 Zespół naukowców od kilku lat prowadzi badania nad zastosowaniem wirtualnej rzeczywistości w leczeniu bólu, tworzy narzędzia stosowane w badaniach naukowych w Polsce i Norwegii oraz popularyzuje wiedzę na temat możliwości zastosowania nowych technologii w różnych obszarach psychologii.
                     </p>
