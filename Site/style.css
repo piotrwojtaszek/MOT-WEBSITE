@@ -283,6 +283,7 @@ html {
 }
 .section_1_1_content_boxes div{
     width: 33%;
+    flex-grow: 1;
     padding:10px 10px 0 10px;
     display: flex;
     flex-direction: column;
@@ -291,7 +292,6 @@ html {
 
 .section_1_1_content_boxes div div{
     width: 100%;
-    height: 90%;
     margin: 0 0 0 0;
     padding: 10px;
     color: white;
