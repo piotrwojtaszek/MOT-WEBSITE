@@ -643,12 +643,36 @@ html {
     width: 20%;
     min-width: 200px;
     padding: 10px;
-    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #2f5597;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: space-evenly;
+    margin-top: 30px;
 }
+
+.section_4_3_content_cotainter div img{
+    max-width: 100%;
+    max-height: 200px;
+}
+
+.section_4_3_content_cotainter div:nth-child(2n+1)
+{
+    background-color: white;
+    border-radius: 10px;
+    border: 3px solid #2f5597;
+    color: #2f5597;
+    font-weight: 500;
+}
+
 
 .section_4_3_content_cotainter div:nth-child(2n)
 {
-    background-color: cornflowerblue;
+    background-color: #2f5597;
+    color: white;
+    border: 3px solid white
 }
 
 .section_5_1_title{

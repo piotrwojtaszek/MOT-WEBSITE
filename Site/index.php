@@ -304,21 +304,21 @@ W przypadku planowych zabiegów z igłą zaleca się, aby każdemu dziecku zapew
                     </div>
                     <div class="section_4_3_content_cotainter">
                         <div class="section_4_3_content_cotainter_1">
-                            <img src="" alt="">
+                            <img src="media/multi/child_mom.png" alt="child-and-mom">
                             <p>
                                 Niemowlę: karmienie piersią podczas zabiegu lub podanie słodkiego płynu do picia np. z sacharozą <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="5"></span>
                             </p>
                         </div>
                         <div class="section_4_3_content_cotainter_2">
-                            <img src="" alt="">
+                            <img src="media/multi/chair.png" alt="chair">
                             <p>Komfortowa pozycja podczas zabiegu</p>
                         </div>
                         <div class="section_4_3_content_cotainter_3">
-                            <img src="" alt="">
+                            <img src="media/multi/krem.png" alt="krem">
                             <p>Znieczulenie miejscowe</p>
                         </div>
                         <div class="section_4_3_content_cotainter_4">
-                            <img src="" alt="">
+                            <img src="media/multi/MagicSpheresLogo.png" alt="">
                             <p>Dobrana do wieku dystrakcja uwagi</p>
                         </div>
                     </div>
