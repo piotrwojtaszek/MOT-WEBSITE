@@ -10,11 +10,11 @@
 </head>
 <body>
     <div class="header" id="sticky">
-        <div class="header_mail">Mail do kontaktu: magic.spheres@uwr.edu.pl</div>
         <div class="header_container">
-            <a href="#section_0">
+        <a href="#section_0">
                 <img class="logo" src="media/multi/logo.png"></img>
             </a>
+
             <nav class="nav_links">
                 <li><a href="#section_1">O grze</a></li>
                 <li><a href="#section_2">Instrukcja gry</a></li>
@@ -24,8 +24,13 @@
                 <!-- <li><a href="#section_6">Zaufali nam</a></li> -->
                 <li><a href="#section_7">Kontakt</a></li>
             </nav>
+            <div class="header_mail">Mail do kontaktu:<br> magic.spheres@uwr.edu.pl</div>
+            <div class="hamburger_menu">
+                <div></div>
+                <div></div>
+                <div></div>
+            </div>
         </div>
-
     </div>
     <div class="section_0" id="section_0">
         <video src="media/multi/gameplay_loop.mp4" playsinline autoplay muted loop></video>
@@ -46,11 +51,13 @@
                             <img class="download_button" alt='pobierz z Google Play' src='https://play.google.com/intl/pl/badges/static/images/badges/pl_badge_web_generic.png'/>
                         </a>
                     </div>
-                    <div class="check_game">
-                        <p>
-                            Zobacz jak wygląda gra 
-                        </p> 
-                    </div>
+                    <a href="#section_2">
+                        <div class="check_game">
+                            <p>
+                                Zobacz jak wygląda gra 
+                            </p> 
+                        </div>
+                    </a>
                     <a href="#section_1">  
                         <div class="learn_more">
                            <p>Dowiedz się więcej</p>
@@ -251,7 +258,7 @@
                 </div>
                 <div class="section_4_1_content">
                     <div class="section_4_1_content_1">
-                        <p> <b>Ból</b> jest nieprzyjemnym doznaniem zmysłowym i emocjonalnym, które odczuwają już niemowlęta. Doświadczanie bólu jest subiektywne i zindywidualizowane, a tolerancja na ból rozwija się od wczesnego dzieciństwa – od pierwszych doznawanych obrażeń ciała <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="1"></span>. Dzieci od urodzenia narażone są na ból spowodowany nakłuciem igłą. U zdrowych dzieci jest to najczęściej szczepienie, które może być wykonywane nawet kilkanaście razy do 18 roku życia. U dzieci wymagających leczenia zdarza się to jeszcze częściej w związku z pobieraniem krwi, zastrzykami czy wkłuciami dożylnymi. „Ból i niepokój dziecka – poza negatywnym wpływem na dziecko – sprawia, że zabiegi z użyciem igły są bardzo stresujące dla rodziców i pracowników służby zdrowia <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="13"></span>.
+                        <p> <b>Ból</b> jest nieprzyjemnym doznaniem zmysłowym i emocjonalnym, które odczuwają już niemowlęta. Doświadczanie bólu jest subiektywne i zindywidualizowane, a tolerancja na ból rozwija się od wczesnego dzieciństwa – od pierwszych doznawanych obrażeń ciała <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="1"></span>. Dzieci od urodzenia narażone są na ból spowodowany nakłuciem igłą. U zdrowych dzieci jest to najczęściej szczepienie, które może być wykonywane nawet kilkanaście razy do 18 roku życia. U dzieci wymagających leczenia zdarza się to jeszcze częściej w związku z pobieraniem krwi, zastrzykami czy wkłuciami dożylnymi. Ból i niepokój dziecka – poza negatywnym wpływem na dziecko – sprawia, że zabiegi z użyciem igły są bardzo stresujące dla rodziców i pracowników służby zdrowia <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="13"></span>.
                         </p>
                     </div>
                 </div>
@@ -285,7 +292,7 @@
                             <li><p>powodować unikanie badań czy leczenia z powodu strachu przed ukłuciem</p></li>
                             <li><p>nasilać lęk</p></li>
                             <li><p>wywoływać fobię przed igłami</p></li>
-                            <li><p>obniżać tolerancję na ból <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="2"></span></p></li>
+                            <li><p>obniżać tolerancję na ból&nbsp;<span onclick="tooglePopupOn(this.id)" class="link-toogle" id="2"></span></p></li>
                         </ul>
                     </div>
                 </div>
@@ -300,7 +307,7 @@
                     <div class="section_4_3_content_1">
                         <p>
                         Ból i stres związany z zabiegami igłowymi można zmniejszać przy pomocy różnych metod. Spośród interwencji psychologicznych potwierdzono skuteczność w stosowaniu dystrakcji bólu (odwróceniu uwagi od bólu), hipnozy, połączenia technik relaksującego oddechu i innych technik pochodzących z terapii poznawczo-behawioralnej <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="4"></span>. ​
-W przypadku planowych zabiegów z igłą zaleca się, aby każdemu dziecku zapewnić jednocześnie kilka różnych form obniżania bólu, takich jak: 
+<br><b>W przypadku planowych zabiegów z igłą zaleca się, aby każdemu dziecku zapewnić jednocześnie kilka różnych form obniżania bólu, takich jak <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="5"></span>:</b> 
 
                         </p>
                     </div>
@@ -308,7 +315,7 @@ W przypadku planowych zabiegów z igłą zaleca się, aby każdemu dziecku zapew
                         <div class="section_4_3_content_cotainter_1">
                             <img src="media/multi/child_mom.png" alt="child-and-mom">
                             <p>
-                                Niemowlę: karmienie piersią podczas zabiegu lub podanie słodkiego płynu do picia np. z sacharozą <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="5"></span>
+                                Niemowlę: karmienie piersią podczas zabiegu lub podanie słodkiego płynu do picia np. z sacharozą
                             </p>
                         </div>
                         <div class="section_4_3_content_cotainter_2">
@@ -346,7 +353,7 @@ Zespół naukowców od kilku lat prowadzi badania nad zastosowaniem wirtualnej r
                 <div class="section_5_2_content">
                     <div class="section_5_2_content_1">
                         <div class="section_5_2_content_title">
-                            <p>Nowe technologie pod okiem badaczy</p>
+                            <p>Nowe technologie</p>
                         </div>
                         <div class="section_5_2_content_body">
                             <ul>

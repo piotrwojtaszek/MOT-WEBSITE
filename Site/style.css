@@ -9,47 +9,49 @@ html {
 }
 
 .header{
-    z-index: 1;
+    z-index: 10;
     position: fixed;
-    background-color: #002e63;
     width: 100%;
     margin:0;
+    height: 60px;
+    background-color: #002e63;
+
 }
 
 .header_mail
 {
     font-family: 'Roboto', sans-serif;
-    background-color: #00428d;
-    height: auto;
-    width: 100%;
     font-size: 15px;
-    padding: 3px;
+    height: 60px;
+    padding: 10px;
     color: white;
+    font-weight: 300;
+    text-align: center;
 }
 
 .header_container{
+
     width: 100%;
-    padding: 0 50px 0 50px;
+    padding: 0 5%;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    height: 60px;
+    /* height: 60px; */
 }
 
 .header nav li, a{
     color: #ffffff;
     text-decoration: none;
-    font-weight: 300;
-    font-size: 20px;
+    font-weight: 400;
+    font-size: 15px;
     font-family: 'Roboto', sans-serif;
-    font-weight: 300;
     text-align: center;
 }
 
 .logo{
     cursor: pointer;
-    height: 100%;
-    padding: 5px;
+    padding: 8px;
+    height: 60px;
 }
 
 .nav_links{
@@ -58,21 +60,31 @@ html {
 
 .nav_links li{
     display: inline-block;
-    padding: 0px 11px;
-
 }
 
 .nav_links li a{
     transition: all 0.3s ease 0s;
+    padding: 4px 11px;
+    /* border-top: 3px solid #002e63;
+    border-right: 3px solid #002e63;
+    border-left: 3px solid #002e63; */
+    /* border-bottom: 3px solid #ffffff63; */
+    border-bottom: 2px solid #ffffff00;
+    text-transform: uppercase;
 }
 .nav_links li a:hover{
-    color: #82ccdd;
+    color: #6dc9e6;
+    border-bottom: 3px solid #ffffff;
+}
+
+.hamburger_menu{
+    display: none;
 }
 
 .section_0{
     position: relative;
     overflow: hidden;
-    padding-top: 80px;
+    padding-top: 60px;
 }
 
 .section_0 video{
@@ -98,7 +110,7 @@ html {
 
 .section_0 .text_wrap{
     display: flex;
-     flex-direction: column;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     align-content: center; 
@@ -289,7 +301,7 @@ html {
 .section_1_1_title div{
     width: 2px;
     height: 100px;
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.466);
     z-index: 0 !important;
 }
 
@@ -640,6 +652,7 @@ html {
 
 .section_4_2_content_1_2{
     text-align: center;
+    padding-top: 10px;
 }
 
 .section_4_2_content_2 p{
@@ -923,20 +936,25 @@ html {
 @media screen and (max-width:1000px){
     .header_mail
     {
-        font-family: 'Roboto', sans-serif;
-        background-color: #00428d;
-        height: auto;
-        width: 100%;
-        font-size: 12px;
-        color: white;
+        display: none;
+    }
+
+    .header{
+        height: 50px;
     }
     
+
     .header_container{
-        height: 48px;
-        padding: 0;
+        height: 100%;
+        padding:6px 10%;
     }
 
     .logo{
+        padding: 0;
+        height: 100%;
+    }
+    .logo img{
+        box-sizing: border-box;
         height: 100%;
         width: auto;
     }
@@ -945,6 +963,27 @@ html {
         max-width: none;
         max-height: none;
     }
+
+    .hamburger_menu{
+        display: inline-block;
+        display: flex;
+        flex-direction: column;
+        height: 38px;
+        width: 38px;
+        justify-content: space-evenly;
+        align-items: center;
+        border-radius: 50%;
+        border: 2px solid rgba(255, 255, 255, 0.8);
+        padding: 6px;
+    }
+
+    .hamburger_menu div{
+        width: 100%;
+        height: 3px;
+        border-radius: 2px;
+        background-color: rgb(255, 255, 255 ,0.8);
+    }
+
 
     .section_0{
         padding-top: 50px;
@@ -1014,11 +1053,11 @@ html {
     }
 
     .section_1_1_title{
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    align-items: center;
-    padding-bottom: 30px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        padding-bottom: 30px;
     }
     .section_1_1_content_title p{
         padding: 0 0 0 0px;
@@ -1037,6 +1076,7 @@ html {
     .section_1_1_title h4{
         width: 100%;
         line-height: 1.5em;
+        text-align: center;
     }
 
     .section_1_1_content_timeline {
@@ -1265,5 +1305,11 @@ html {
 
     .popup #popup-link-p{
         word-wrap: break-word;
+    }
+}
+
+@media screen and (max-width:1200px){
+    .header a {
+        font-size: 80%;
     }
 }
