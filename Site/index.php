@@ -33,7 +33,7 @@
         <div class="text_wrap">
             <div class="centered">
                 <h1>Magic Spheres</h1>
-                <h4>gra rozpraszająca uwagę dziecka</h4>
+                <h4>gra odwracająca uwagę od ukłucia igłą</h4>
                 <div class="inner_margin">
                     <p>Pomóż dziecku podczas zabiegu z nakłuciem igłą! Zmień nastawienie dziecka do zabiegów medycznych! Możesz użyć do tego swojego smartfona już kilka minut przed zabiegiem i w trakcie zabiegu nakłucia igłą. Aplikacja <b>Magic Spheres</b> ma pięć scenerii i kilka poziomów trudności, które <b>zaprojektowano, aby odwrócić uwagę dziecka od bólu. </b> <br>
                     Pobierz aplikację Magic Spheres i <b>sprawdź, jak rozproszenie uwagi dziecka od ukłucia igłą, zmniejsza jego ból i stres.</b>
@@ -258,6 +258,7 @@
             </div>
             <div class="section_4_2_content">
                     <div class="section_4_2_content_1">
+                        <div class="section_4_2_content_1_container">
                         <img src="media/multi/syringe_512.png" alt="">
                         <ul>
                             <li><p>Szczepienie</p></li>
@@ -265,6 +266,7 @@
                             <li><p>Leczenie szpitalne</p></li>
                             <li><p>Zabieg dentystyczny</p></li>
                         </ul>
+                        </div>
                         <p class="section_4_2_content_1_2">
                             <b>Dla dzieci ukłucie żyły jest jednym z najbardziej przerażających zabiegów.</b>
                         </p>
