@@ -194,6 +194,7 @@ html {
     height: 60px;
     background-color: #2f5597e5;
     border-radius: 12px;
+    padding: 3px 12px;
     box-shadow: 0 0 10px #002e63;
     /* border: rgb(0, 0, 0) 2px solid; */
     display: flex;
@@ -255,7 +256,7 @@ html {
     font-size: 2.8em;
     font-weight: 400;
     color: #284e8f;
-    text-shadow:  1px 1px 2px #0044ff;
+    text-shadow:  1px 1px 2px #1b5ccc;
     z-index: 0 !important;
 
 }
@@ -1097,15 +1098,13 @@ html {
         flex-direction: column;
         align-items:center;
         justify-content:right;
+        flex-grow: 1;
         width: 100%;
         max-width: 505px;
         padding:10px 10px 0 10px;
         margin:0;
     }
     .section_1_1_content_boxes div div{
-        width: 100%;
-        height: auto;
-        max-width: 500px;
     }
 
     .section_1_1_content_boxes_3_containter{
@@ -1118,8 +1117,8 @@ html {
     }
     .timeline_vertical{
         display: inline-block;
-        height: 100%;
     }
+
     .timeline_horizontal{
         display: none;
     }
