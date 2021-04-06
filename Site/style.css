@@ -238,15 +238,38 @@ html {
 }
 
 .wrapper h1{
+    position: relative;
     font-size: 2.8em;
     font-weight: 400;
-    margin-bottom: 20px;
+    color: #284e8f;
+    text-shadow:  1px 1px 2px #0044ff;
+    z-index: 0 !important;
+
 }
 
+.wrapper h1::before{
+    position: absolute;
+    background-color: white;
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    top:50%;
+    left:50%;
+    filter: blur(15px);
+    transform:translate(-50%,-50%);
+    content:'';
+    z-index: -1 !important;
+}
+
+
 .wrapper h4{
+    position: relative;
     font-size: 1.9em;
     font-weight: 400;
+    z-index: 0 !important;
+    color: #23437a;
 }
+
 .section_1_1_title
 {
     display: flex;
@@ -266,6 +289,7 @@ html {
     width: 2px;
     height: 100px;
     background-color: black;
+    z-index: 0 !important;
 }
 
 .section_1_1_title h4{
@@ -274,7 +298,7 @@ html {
 }
 
 .section_1_1_content_title p{
-    padding: 0 0 0 40px;
+    padding: 10px 40px 20px 40px;
     text-align: center;
 }
 .section_1_1_content_boxes{
@@ -376,6 +400,7 @@ html {
 .section_1_2_content{
     display: flex;
     flex-direction: column;
+    padding-top: 30px;
 }
 
 .section_1_1_timeline_svg{
@@ -443,12 +468,12 @@ html {
 
 .section_3_1_title h1{
     text-align: center;
-    padding-bottom: 30px;
     text-align: center;
 }
 .section_3_1_content_1{
     text-align: justify;
     padding-bottom: 30px;
+    padding-top: 20px;
 }
 
 .section_3_1_content_2{
@@ -630,6 +655,7 @@ html {
 
 .section_4_3_content_1{
     text-align: center;
+    padding-top: 20px;
 }
 
 .section_4_3_content_cotainter{
@@ -677,6 +703,10 @@ html {
 
 .section_5_1_title{
     text-align: center;
+}
+
+.section_5_1_content{
+    padding-top: 20px;
 }
 
 .section_5_1_content p:nth-child(1){
@@ -772,6 +802,7 @@ html {
     flex-wrap: wrap;
     justify-content: space-evenly;
     align-items: center;
+    padding-top: 20px;
 }
 
 .section_7_content_1{
@@ -851,6 +882,7 @@ html {
 .popup #popup-link-p{
     width: 100%;
     text-align: left;
+    word-wrap: break-word;
 }
 
 .popup #popup-content{
@@ -1031,6 +1063,7 @@ html {
 
     .section_3_1_content_3_1{
         width: 100%;
+        max-width: 750px;
         margin: 0;
         margin-bottom: 10px;
     }
