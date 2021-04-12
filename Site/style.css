@@ -38,13 +38,18 @@ html {
     /* height: 60px; */
 }
 
-.header nav li, a{
+.header nav a{
     color: #ffffff;
     text-decoration: none;
     font-weight: 400;
     font-size: 15px;
     font-family: 'Roboto', sans-serif;
     text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: white;
 }
 
 .logo{
@@ -55,13 +60,10 @@ html {
 
 .nav_links{
     list-style: none;
+    display: flex;
 }
 
-.nav_links li{
-    display: inline-block;
-}
-
-.nav_links li a{
+.nav_links a li{
     transition: all 0.3s ease 0s;
     padding: 4px 11px;
     /* border-top: 3px solid #002e63;
@@ -71,7 +73,7 @@ html {
     border-bottom: 2px solid #ffffff00;
     text-transform: uppercase;
 }
-.nav_links li a:hover{
+.nav_links a li:hover{
     color: #6dc9e6;
     border-bottom: 3px solid #ffffff;
 }
@@ -185,7 +187,6 @@ html {
     padding:0 0 0 25px;
     text-align: center;
     font-size: 20px;
-    color: white;
 }
 
 .check_game{
@@ -963,10 +964,35 @@ html {
         height: 100%;
         width: auto;
     }
-    .header nav{
-        display: none;
+
+    .nav_links{
+        position: relative;
+        height: 100vh;
+        width: 100vw;
+        flex-direction: column;
+        position: absolute;
         max-width: none;
         max-height: none;
+        z-index: -1;
+        justify-content: space-evenly;
+        align-items: center;
+        right: 0;
+        top:20;
+        background: rgb(0,46,99);
+        background: linear-gradient(90deg, rgba(0,46,99,0.75) 0%, rgba(0,46,99,0.99) 25%, rgba(0,46,99,0.99) 75%, rgba(0,46,99,0.75) 100%);
+    }
+
+    .header nav li a{
+        width: 300px;
+        border-bottom: oldlace;
+    }
+
+    .nav_containter.active{
+        display: block;
+    }
+
+    .nav_containter{
+        display: none;
     }
 
     .hamburger_menu{
@@ -978,17 +1004,12 @@ html {
         justify-content: space-evenly;
         align-items: center;
         border-radius: 50%;
-        border: 2px solid rgba(255, 255, 255, 0.8);
-        padding: 6px;
+        border: 3px solid rgba(255, 255, 255, 0.8);
+        border-radius: 25%;
+        color: white;
+        cursor: pointer;
+        font-size: 25px;
     }
-
-    .hamburger_menu div{
-        width: 100%;
-        height: 3px;
-        border-radius: 2px;
-        background-color: rgb(255, 255, 255 ,0.8);
-    }
-
 
     .section_0{
         padding-top: 50px;
@@ -1312,7 +1333,7 @@ html {
 }
 
 @media screen and (max-width:1200px){
-    .header a {
+    .header li {
         font-size: 80%;
     }
 }

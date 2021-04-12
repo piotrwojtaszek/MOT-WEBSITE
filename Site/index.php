@@ -14,21 +14,20 @@
         <a href="#section_0" class="logo-img">
                 <img class="logo" src="media/multi/logo.png"></img>
             </a>
-
-            <nav class="nav_links">
-                <li><a href="#section_1">O grze</a></li>
-                <li><a href="#section_2">Instrukcja gry</a></li>
-                <li><a href="#section_3">Dlaczego warto</a></li>
-                <li><a href="#section_4">O bólu</a></li>
-                <li><a href="#section_5">O nas</a></li>
-                <!-- <li><a href="#section_6">Zaufali nam</a></li> -->
-                <li><a href="#section_7">Kontakt</a></li>
-            </nav>
+            <div class="nav_containter" id="nav_containter">
+                <nav class="nav_links">
+                    <a href="#section_1"><li>O grze</li></a>
+                    <a href="#section_2"><li>Instrukcja gry</li></a>
+                    <a href="#section_3"><li>Dlaczego warto</li></a>
+                    <a href="#section_4"><li>O bólu</li></a>
+                    <a href="#section_5"><li>O nas</li></a>
+                    <!-- <li><a href="#section_6">Zaufali nam</a></li> -->
+                    <a href="#section_7"><li>Kontakt</li></a>
+                </nav>
+            </div>
             <div class="header_mail">Mail do kontaktu:<br> magic.spheres@uwr.edu.pl</div>
-            <div class="hamburger_menu">
-                <div></div>
-                <div></div>
-                <div></div>
+            <div class="hamburger_menu" onclick="toggleMenu()">
+                &#9776;
             </div>
         </div>
     </div>

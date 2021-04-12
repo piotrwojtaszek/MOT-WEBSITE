@@ -17,3 +17,7 @@ $.getJSON("links.json", function(json) {
     }
 });
 
+function toggleMenu(){
+    console.log("menu");
+    document.getElementById("nav_containter").classList.toggle("active");
+}
