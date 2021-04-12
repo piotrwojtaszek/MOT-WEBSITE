@@ -17,13 +17,13 @@
             </a>
             <div class="nav_containter" id="nav_containter">
                 <nav class="nav_links">
-                    <a href="#section_1" onclick="toggleMenu()"><li>O grze</li></a>
-                    <a href="#section_2" onclick="toggleMenu()"><li>Instrukcja gry</li></a>
-                    <a href="#section_3" onclick="toggleMenu()"><li>Dlaczego warto</li></a>
-                    <a href="#section_4" onclick="toggleMenu()"><li>O bólu</li></a>
-                    <a href="#section_5" onclick="toggleMenu()"><li>O nas</li></a>
+                    <a href="#section_1" onclick="toggleMenu()"><li>Об игре</li></a>
+                    <a href="#section_2" onclick="toggleMenu()"><li>Инструкция игры</li></a>
+                    <a href="#section_3" onclick="toggleMenu()"><li>Почему это важно</li></a>
+                    <a href="#section_4" onclick="toggleMenu()"><li>О боли</li></a>
+                    <a href="#section_5" onclick="toggleMenu()"><li>О нас</li></a>
                     <!-- <li><a href="#section_6">Zaufali nam</a></li> -->
-                    <a href="#section_7" onclick="toggleMenu()"><li>Kontakt</li></a>
+                    <a href="#section_7" onclick="toggleMenu()"><li>Контакт</li></a>
                     <div class="nav_dropdown_language">
                         <div class="dropbtn"><img src="../media/multi/Russia.png" alt=""></div>
                         <div class="nav_dropdown_language_content">
@@ -33,7 +33,7 @@
                     </div>
                 </nav>
             </div>
-            <div class="header_mail">Mail do kontaktu:<br> magic.spheres@uwr.edu.pl</div>
+            <div class="header_mail">Контакт:<br> magic.spheres@uwr.edu.pl</div>
             <div class="hamburger_menu" id="hamburger_menu" onclick="toggleMenu()">
                 &#9776;
             </div>
@@ -45,14 +45,14 @@
         <div class="text_wrap">
             <div class="centered">
                 <h1>Magic Spheres</h1>
-                <h4>gra odwracająca uwagę od ukłucia igłą</h4>
+                <h4>Игра отвлекающая внимание от уколов</h4>
                 <div class="inner_margin">
-                    <p>Pomóż dziecku podczas zabiegu z nakłuciem igłą! Zmień nastawienie dziecka do zabiegów medycznych! Możesz użyć do tego swojego smartfona już kilka minut przed zabiegiem i w trakcie zabiegu nakłucia igłą. Aplikacja <b>Magic Spheres</b> ma pięć scenerii i kilka poziomów trudności, które <b>zaprojektowano, aby odwrócić uwagę dziecka od bólu. </b> <br>
-                    Pobierz aplikację Magic Spheres i <b>sprawdź, jak rozproszenie uwagi dziecka od ukłucia igłą, zmniejsza jego ból i stres.</b>
+                    <p>Помоги ребёнку во время укола! Измени отношение ребёнка к медицинским процедурам! Для этого достаточно воспользоваться своим телефоном за несколько минут до и во время  самой процедуры. В приложении <b>Magic Spheres</b> есть 5 сцен и несколько уровней сложности, целью которых является <b>отвлечь внимание ребёнка от уколов, а также уменьшить болевые ощущения и тревогу. </b> <br>
+                    Скачай приложение Magic Spheres и проверь, как отвлечение внимания ребёнка от уколов уменьшит его боль и стресс.
                     </p>
                     <div class="download_containter">
                         <div class="download_text">
-                            Pobierz pełną wersję gry
+                        Скачай полную версию игры
                         </div>
                         <a href='https://play.google.com/store/apps/details?id=com.UWr.MagicSpheres&hl=pl&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
                             <img class="download_button" alt='pobierz z Google Play' src='https://play.google.com/intl/pl/badges/static/images/badges/pl_badge_web_generic.png'/>
@@ -61,13 +61,13 @@
                     <a href="#section_2">
                         <div class="check_game">
                             <p>
-                                Zobacz jak wygląda gra 
+                            Как выглядит игра
                             </p> 
                         </div>
                     </a>
                     <a href="#section_1">  
                         <div class="learn_more">
-                           <p>Dowiedz się więcej</p>
+                           <p>Узнать больше</p>
                         </div>
                     </a>
                 </div>
@@ -79,18 +79,18 @@
             <div class="section_1_container">
                 <div class="section_1_1">
                     <div class="section_1_1_title">
-                        <h1>
+                        <!-- <h1>
                             Dystrakcja uwagi 
                         </h1>
-                        <div></div>
-                        <h4>
-                        potencjał w leczeniu bólu potwierdzony przez zespół badawczy VR4HEALTH LAB
-                        </h4>
+                        <div></div> -->
+                        <h1 style="text-align:center !important; width:100%">
+                        Отвлечение внимания и потенциал в лечении боли подтверждён исследовательской группой VR4HEALTH LAB
+                        </h1>
                     </div>
                     <div class="section_1_1_content">
                         <div class="section_1_1_content_title">
                             <p>
-                            Naukowcy z Instytutu Psychologii Uniwersytetu Wrocławskiego od prawie dekady prowadzą badania nad odwracaniem uwagi od krótkotrwałego bólu.
+                            Группа исследователей из факультета психологии Вроцлавского Университета уже почти 10 лет проводит исследования над отвлечением внимания от кратковременной боли.
                             </p>
                         </div>
                         <div class="section_1_1_content_timeline">
@@ -98,17 +98,17 @@
                                 <div class="section_1_1_content_boxes_1">
                                     <div class="section_1_1_content_boxes_1_containter">
                                         <p>
-                                            Wyniki ostatnich badań wykazały, że autorska gra wymagająca jednoczesnego śledzenia wielu obiektów (mocno angażująca uwagę dziecka):
+                                        Результаты последних исследований показали, что оригинальная игра, которая требует одновременного отслеживания нескольких объектов (сильно привлекающая внимание ребёнка):
                                         </p>
                                         <ul>
                                             <li>
                                                 <p>
-                                                zmniejszyła natężenie bólu o 59% w porównaniu z grupą kontrolną
+                                                Снизила интенсивность боли на 59% по сравнению с контрольной группой
                                                 </p> 
                                             </li>
                                             <li>
                                                 <p>
-                                                poziom stresu zmniejszył się o 73% w grupie wszystkich 39 dzieci <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="6"></span>.
+                                                Уровень стресса снизился на 73% в группе из всех 39 детей <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="6"></span>.
                                                 </p>
                                             </li>
                                         </ul>
@@ -121,17 +121,17 @@
                                 <div class="section_1_1_content_boxes_2">
                                     <div class="section_1_1_content_boxes_2_containter">
                                         <p>
-                                        Podobny efekt otrzymano w kolejnym badaniu (w grupie 57 dzieci), w którym dodatkowo porównywano dwa rodzaje interwencji w wirtualnej rzeczywistości (VR). W jednej dzieci aktywnie grały w analogiczną grę w VR, a w drugiej - oglądały film podobny do prezentowanej gry.
+                                        Похожие результаты были получены в другом исследовании (в группе из 57 детей), в котором дополнительно сравнивались два типа вмешательств в виртуальной реальности (VR). В одной из них дети играли в игру в VR, а в другой –смотрели видео, аналогичное данной игре.
                                         </p>
                                         <ul>
                                             <li>
                                                 <p>
-                                                Obie grupy VR zgłosiły istotnie mniejsze nasilenie bólu i stresu w porównaniu do grupy kontrolnej. 
+                                                Обе группы VR сообщили о значительно более низкой интенсивности боли и стресса по сравнению с контрольной группой.
                                                 </p> 
                                             </li>
                                             <li>
                                                 <p>
-                                                Między grupami VR zauważono tendencję do większej redukcji bólu i stresu u osób aktywnie grających podczas zabiegu <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="7"></span>.
+                                                Наблюдалась тенденция к большему снижению боли и стресса среди групп VR у людей, которые активно играли во время процедуры  <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="7"></span>.
                                                 </p>
                                             </li>
                                         </ul>
@@ -158,23 +158,23 @@
                 <div class="section_1_2">
                     <div class="section_1_2_title">
                         <h1>
-                            Dlaczego stworzyliśmy <br> Magic Spheres?
+                        Зачем мы создали <br> Magic Spheres?
                         </h1>
                     </div>
                     <div class="section_1_2_content">
                         <div class="section_1_2_content_child1">
                             <p>
-                            Magic Spheres stanowi odpowiedź na potrzeby minimalizowania stresu i leczenia bólu u dzieci podczas zabiegów igłowych. Efekty wcześniejszych badań VR4Health Lab wskazują na duży potencjał tej autorskiej gry w rozpraszaniu uwagi dzieci od bodźców bólowych. 
+                            Magic Spheres - это ответ на необходимость минимизировать стресс и облегчить боль у детей во время лечения с прининением игл. Результаты предыдущих исследований VR4Health Lab указывают на большой потенциал этой оригинальной игры в отвлечении внимания детей от болевых раздражителей.
                             </p>
                         </div>
                         <div class="section_1_2_content_child2">
                             <p>
-                            Naukowcy wciąż sprawdzają czy zastosowanie VR jest skuteczniejsze od stosowania innych technologii cyfrowych <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="8"></span>, <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="9"></span>, dlatego grę zaprojektowano w środowisku 2D. Przeciwbólową skuteczność - podczas procedur pobierania krwi - potwierdzono zarówno dla gier w VR <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="10"></span>, <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="11"></span>,<br> jak i przy użyciu innych technologii cyfrowych <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="12"></span>, <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="13"></span>.
+                            Учёные до сих пор исследуют, является ли использование VR более эффективным методом, чем использование других цифровых технологий <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="8"></span>, <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="9"></span>, поэтому игра была разработана в 2D-среде.<b> Обезболивающий эффект </b> - во время сдачи крови –<b>подтвердился</b> как для игр на VR <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="10"></span>, <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="11"></span>,<br> так и <b>для игр на других цифровых технологиях </b><span onclick="tooglePopupOn(this.id)" class="link-toogle" id="12"></span>, <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="13"></span>.
                             </p>
                         </div>
                         <div class="section_1_2_content_child3">
                             <p>
-                            Mając na celu możliwie najprostszą formę korzystania z gry, została ona zaprogramowana specjalnie do użytku na smartfonie i tablecie, tak aby zarówno rodzice, jak i pracownicy służby zdrowia mieli do niej nieograniczony i niezależny dostęp, bez ponoszenia dodatkowych kosztów. 
+                            Чтобы сделать игру как можно проще, она была <b>специально разработана для использования на смартфоне и планшете</b>, так, чтобы и родители, и медицинские работники имели <b>неограниченный доступ к ней без дополнительных затрат.</b>
                             </p>
                         </div>
                     </div>
@@ -185,7 +185,7 @@
             <div class="section_2_1">
                 <div class="section_2_1_title">
                     <h1>
-                        Instrukcja gry
+                    Инструкция игры
                     </h1>
                 </div>
                 <div class="section_2_1_youtube_video">
@@ -197,38 +197,39 @@
             <div class="section_3_1">
                 <div class="section_3_1_title">
                     <h1>
-                    Dlaczego warto pobrać <br>Magic Spheres?
+                    Почему стоит скачать <br>Magic Spheres?
                     </h1>
                 </div>
                 <div class="section_3_1_content">
                     <div class="section_3_1_content_1">
-                        <p>W Magic Spheres wykorzystano mechanizm przeciwbólowego działania gry, który opiera się na odwróceniu uwagi dziecka od bodźców bólowych. Efekt przeciwbólowy jest tym silniejszy, im bardziej uwaga dziecka zaangażowana jest w bodźce, które odciągają uwagę od zabiegu. Aby osiągnąć ten cel, gra została opracowana w oparciu o zasadę śledzenia wielu obiektów, która bardziej niż inne gry angażuje uwagę dziecka. Ta metoda różni się od większości innych, które zostały zastosowane do badania rozpraszania uwagi. Po pierwsze, wymaga ciągłej, nieprzerwanej uwagi, a nie krótkotrwałych przesunięć uwagi. Po drugie, wymaga jednoczesnego zwracania uwagi na wiele obiektów równocześnie <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="14"></span>. Metoda śledzenia wielu obiektów została już przetestowana podczas badania uwagi w różnych grupach wiekowych, w tym u małych dzieci <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="15"></span>. 
+                        <p>В Magic Spheres используется обезболивающий механизм, который заключается в отвлечении внимания ребёнка от болевых раздражителей. Обезболивающий результат был тем сильнее, чем больше внимания ребёнка было приковано к раздражителям, которые отвлекают его внимание от процедуры (например, сдачи крови). Чтобы добиться этой цели, игра была разработана по уже упомянутому принципу отслеживания нескольких объектов, которая привлекает внимание ребёнка больше, чем другие игры. Этот метод отличается от большинства других, которые были использованы в исследованиях отвлечения внимания. Во-первых, она требует постоянного внимания, а не его кратковременного переключения. Во-вторых, требует постоянного отслеживания нескольких объектов одновременно <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="14"></span>. Методика отслеживания нескольких объектов уже была ранее протестирована во время исследования внимания людей разных возрастных групп, в том числе детей раннего возраста <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="15"></span>. 
                         </p>
                     </div>
                     <div class="section_3_1_content_2">
                         <p class="section_3_1_content_2_1">
-                        Gra została zaprojektowana w taki sposób, aby umożliwić jej zastosowanie dla dzieci w różnym wieku. Magic Spheres polega na zapamiętaniu kilku krótko migających elementów, a następnie odnalezieniu ich wśród innych poruszających się obiektów. Gra składa się z kilku scen, a każda scena ma inne tło i liczbę obiektów latających, aby z każdym poziomem podtrzymywać zainteresowanie dziecka i zwiększać szansę na odwrócenie uwagi od bólu.  
+                        Игра была спроектирована так, чтобы её могли использовать для детей любого возраста. Magic Spheres заключается в запоминании нескольких кратко подсвечивающихся объектов, а затем их поиске среди других движущихся объектов. 
+Игра состоит из нескольких уровней. Уровни отличаются друг от друга фоном и количеством летающих объектов, чтобы с каждым пройденным уровнем поддерживать заинтересованность ребёнка и повышать вероятность отвлечения внимания от болевых ощущений.
                         </p>
                         <div class="section_3_1_content_2_divider"></div>
                         <p class="section_3_1_content_2_2">
-                        Grę opracowano specyficznie pod kątem zastosowania jej podczas krótkotrwałego, bolesnego zabiegu, dlatego powinna być stosowana tylko do tego celu: jako kilkuminutowe przećwiczenie gry, bezpośrednio przed zabiegiem, oraz przez kilka minut trwania zabiegu. Umożliwi to zachowanie efektu nowości i maksymalizację skupienia uwagi dziecka na wykonywanym w grze zadaniu – im lepiej dziecko opanuje grę, tym słabszy może być efekt jej działania w odwracaniu uwagi od bólu.
+                        Игра специально разработана для использования во время кратковременной, болезненной процедуры, поэтому рекомендуется использовать её только для этой цели; в качестве короткой игровой тренировки, в течение нескольких минут непосредственно перед процедурой и в течение нескольких минут во время самой процедуры. Это позволит сохранить эффект новизны и максимально сосредоточить внимание ребёнка на задаче, выполняемой в игре. Чем лучше ребёнок освоит игру, тем слабее может быть обезболивающий эффект.
                         </p>
                     </div>
                     <div class="section_3_1_content_3">
                         <div class="section_3_1_content_3_1">
                             <p>
-                            Gra powstała, aby wspomagać dobrostan psychiczny dzieci, rodziców i pracowników służby zdrowia.
+                            Игры была придумана для поддержания психического благополучия детей, родителей и медицинских работников.
                             </p>
                         </div>
                         <div class="section_3_1_content_3_2">
                             <ul>
-                                <li><p>Darmowa</p></li>
-                                <li><p>Dostępna dla każdego</p></li>
-                                <li><p>Intuicyjna w użyciu</p></li>
+                                <li><p>Бесплатная</p></li>
+                                <li><p>Доступна каждому</p></li>
+                                <li><p>Проста в использовании</p></li>
                             </ul>
                         </div>
                         <div class="section_3_1_content_3_3">
-                        <p>Korzystanie z gry nie wiąże się z udziałem w badaniu naukowym.</p>
+                        <p>Использование игры не предполагает участия в научном исследовании.</p>
                         </div>
                     </div>
                 </div>
@@ -236,10 +237,10 @@
             <div class="section_3_2">
                 <div class="section_3_2_title">
                     <h1>
-                    Odwróć uwagę dziecka od bólu
+                    Отвлеките внимание ребенка от боли
                     </h1>
                     <h4>
-                    Przetestuj grę i zminimalizuj niepokój dziecka przed ukłuciem igłą 
+                    Протестируй игру и уменьш тревогу ребёнка перед процедурой.
                     </h4>
                 </div>
                 <div class="section_3_2_content">
@@ -260,12 +261,12 @@
         <div class="section_4_1">
                 <div class="section_4_1_title">
                     <h1>
-                    Kilka słów o bólu, dziecięcych lękach i sposobach na odczarowanie lęku przed ukłuciem igłą...
+                    Несколько слов о болевых ощущениях, детских страхах и способе избавиться от боязни уколов...
                     </h1>
                 </div>
                 <div class="section_4_1_content">
                     <div class="section_4_1_content_1">
-                        <p> <b>Ból</b> jest nieprzyjemnym doznaniem zmysłowym i emocjonalnym, które odczuwają już niemowlęta. Doświadczanie bólu jest subiektywne i zindywidualizowane, a tolerancja na ból rozwija się od wczesnego dzieciństwa – od pierwszych doznawanych obrażeń ciała <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="1"></span>. Dzieci od urodzenia narażone są na ból spowodowany nakłuciem igłą. U zdrowych dzieci jest to najczęściej szczepienie, które może być wykonywane nawet kilkanaście razy do 18 roku życia. U dzieci wymagających leczenia zdarza się to jeszcze częściej w związku z pobieraniem krwi, zastrzykami czy wkłuciami dożylnymi. Ból i niepokój dziecka – poza negatywnym wpływem na dziecko – sprawia, że zabiegi z użyciem igły są bardzo stresujące dla rodziców i pracowników służby zdrowia <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="3"></span>.
+                        <p> <b>Боль</b> это неприятное сенсорное и эмоциональное переживание, которое испытывают даже младенцы. Переживание боли субъективно, а переносимость боли развивается уже с раннего детства, а точнее начиная с первых телесных травм.  <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="1"></span>. Дети уже с самого рождения обречены на боль, вызванную уколами. У здоровых детей контакт с иглой чаще всего происходит во время вакцинации, которая может быть проведена больше дюжины раз до наступления 18 лет. У детей, нуждающихся в постоянном лечении, это происходит ещё чаще в связи с обязательным прохождением таких процедур, как сдача крови, уколы, внутривенные и артериальные инъекции. Помимо негативного воздействия, боль и тревога делают лечение с применением игл очень тяжёлым как для родителей, так и для медицинских работников  <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="3"></span>.
                         </p>
                     </div>
                 </div>
@@ -275,46 +276,46 @@
                         <div class="section_4_2_content_1_container">
                         <img src="../media/multi/syringe_512.png" alt="">
                         <ul>
-                            <li><p>Szczepienie</p></li>
-                            <li><p>Pobranie krwi</p></li>
-                            <li><p>Leczenie szpitalne</p></li>
-                            <li><p>Zabieg dentystyczny</p></li>
+                            <li><p>Прививки</p></li>
+                            <li><p>Сдача крови</p></li>
+                            <li><p>Стационарное лечение</p></li>
+                            <li><p>Стоматологическое лечение</p></li>
                         </ul>
                         </div>
                         <p class="section_4_2_content_1_2">
-                            <b>Dla dzieci ukłucie żyły jest jednym z najbardziej przerażających zabiegów.</b>
+                            <b>Для детей уколы являются одним из наиболее страшных процедур </b>
                         </p>
                     </div>
                     <div class="section_4_2_content_2">
                         <img src="../media/multi/cry_baby_1024.png" alt="">
                         <p>
-                        Jak czuje się dziecko podczas zabiegu?
+                        Как себя чувствует ребёнок во время процедуры?
                         </p>
                     </div>
                     <div class="section_4_2_content_3">
-                        <p class="section_4_2_content_3_1"><b>Nieleczony ból i stres podczas zabiegów może:</b></p>
+                        <p class="section_4_2_content_3_1"><b>Пренебрежение по отношению к боли и стрессу во время процедур могут:</b></p>
                         <ul>
-                            <li><p>wywoływać negatywne nastawienie do badania</p></li>
-                            <li><p>zniechęcać do zabiegów medycznych</p></li>
-                            <li><p>powodować unikanie badań czy leczenia z powodu strachu przed ukłuciem</p></li>
-                            <li><p>nasilać lęk</p></li>
-                            <li><p>wywoływać fobię przed igłami</p></li>
-                            <li><p>obniżać tolerancję na ból&nbsp;<span onclick="tooglePopupOn(this.id)" class="link-toogle" id="2"></span></p></li>
+                            <li><p>Быть причиной негативного отношения к обследованиям</p></li>
+                            <li><p>Подавлять желание в дальнейшем принимать участие в медицинских процедурах</p></li>
+                            <li><p>Быть причиной избегания медицинских исследований и лечения из-за боязни уколов</p></li>
+                            <li><p>Усиливать страх и тревогу</p></li>
+                            <li><p>Вызвать боязнь шприцов и уколов (трипанофобию)</p></li>
+                            <li><p>Снизить переносимость боли &nbsp;<span onclick="tooglePopupOn(this.id)" class="link-toogle" id="2"></span></p></li>
                         </ul>
                     </div>
                 </div>
                 <div class="section_4_3">
                     <div class="section_4_3_title">
                         <h1>
-                            Jak ukoić ból i niepokój dziecka podczas zabiegu?
+                        Как облегчить боль и тревогу ребёнка во время процедуры?
                         </h1>
                     </div>
                 </div>
                 <div class="section_4_3_content">
                     <div class="section_4_3_content_1">
                         <p>
-                        Ból i stres związany z zabiegami igłowymi można zmniejszać przy pomocy różnych metod. Spośród interwencji psychologicznych potwierdzono skuteczność w stosowaniu dystrakcji bólu (odwróceniu uwagi od bólu), hipnozy, połączenia technik relaksującego oddechu i innych technik pochodzących z terapii poznawczo-behawioralnej <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="4"></span>. ​
-<br><b>W przypadku planowych zabiegów z igłą zaleca się, aby każdemu dziecku zapewnić jednocześnie kilka różnych form obniżania bólu, takich jak <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="5"></span>:</b> 
+                        Болевые ощущения и стресс, вызванные уколами, можно уменьшить разными способами. Была подтверждена эффективность использования таких психологических техник, как отвлечение внимания (от источника боли), гипноз, комбинации расслабляющих дыхательных техник и другие техники, заимствованные из когнитивно-поведенческой терапии <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="4"></span>. ​
+<br><b>В случае планового лечения с использованием иглы рекомендуется одновременно использовать несколько способов уменьшения болевых ощущений  для каждого ребёнка, таких как <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="5"></span>:</b> 
 
                         </p>
                     </div>
@@ -322,20 +323,20 @@
                         <div class="section_4_3_content_cotainter_1">
                             <img src="../media/multi/child_mom.png" alt="child-and-mom">
                             <p>
-                                Niemowlę: karmienie piersią podczas zabiegu lub podanie słodkiego płynu do picia np. z sacharozą
+                            Младенцам: покормить грудью во время процедуры или дать выпить сладкий напиток, например, с сахарозой
                             </p>
                         </div>
                         <div class="section_4_3_content_cotainter_2">
                             <img src="../media/multi/chair.png" alt="chair">
-                            <p>Komfortowa pozycja podczas zabiegu</p>
+                            <p>Комфортная позиция тела во время процедуры</p>
                         </div>
                         <div class="section_4_3_content_cotainter_3">
                             <img src="../media/multi/krem.png" alt="krem">
-                            <p>Znieczulenie miejscowe</p>
+                            <p>Местная анастезия</p>
                         </div>
                         <div class="section_4_3_content_cotainter_4">
                             <img src="../media/multi/MagicSpheresLogo.png" alt="">
-                            <p>Dobrana do wieku dystrakcja uwagi</p>
+                            <p>Соответствующее возрасту методы отвлечения внимания</p>
                         </div>
                     </div>
                 </div>
@@ -344,68 +345,68 @@
         <div class="section_5_1">
                 <div class="section_5_1_title">
                     <h1>
-                    Kto stworzył grę?
+                    Кто разработал игру?
                     </h1>
                 </div>
                 <div class="section_5_1_content">
                     <p>
-                    Gra <i> Magic Spheres</i> została zaprojektowana przez zespół badaczy z Laboratorium VR4Health w <br>Instytucie Psychologii Uniwersytetu Wrocławskiego. 
+                    Игра <i> Magic Spheres</i> была разработана командой исследователей Laboratorium VR4Health из <br>факультета психологии Вроцлавского Университета.
                     <br><br>
-Zespół naukowców od kilku lat prowadzi badania nad zastosowaniem wirtualnej rzeczywistości w leczeniu bólu, tworzy narzędzia stosowane w badaniach naukowych w Polsce i Norwegii oraz popularyzuje wiedzę na temat możliwości zastosowania nowych technologii w różnych obszarach psychologii.
+                    Команда исследователей в течении нескольких лет проводит исследования над использованием виртуальной реальности в лечении боли, создает методики, используемые в научных исследованиях в Польше и Норвегии, а также распространяет сведения о возможностях использования новых технологий в различных областях психологии.
                     </p>
                     <p>
-                    <i> Magic Spheres </i> jest efektem wieloletniej pracy i doświadczenia w badaniach eksperymentalnych – laboratoryjnych i klinicznych – nad możliwościami zastosowania nowych technologii w psychologii
+                    <i> Magic Spheres </i> является результатом многолетней работы и опыта в экспериментальных исследованиях - лабораторных и клинических - над возможностями использования новых техногологий в психологии
                     </p>
                 </div>
                 <div class="section_5_2_content">
                     <div class="section_5_2_content_1">
                         <div class="section_5_2_content_title">
-                            <p>Nowe technologie</p>
+                            <p>Новые технологии </p>
                         </div>
                         <div class="section_5_2_content_body">
                             <ul>
-                                <li><p>Technologia VR</p></li>
-                                <li><p> <b>Gry 2D</b></p></li>
+                                <li><p>Технология VR</p></li>
+                                <li><p> <b>Игры 2D</b></p></li>
                                 <li><p>HRV Biofeedback</p></li>
-                                <li><p>Treningi oddechowe</p></li>
+                                <li><p>Дыхательные техники</p></li>
                             </ul>
                         </div>
                     </div>
                     <div class="section_5_2_content_2">
                         <div class="section_5_2_content_title">
-                            <p>Badane obszary zastosowań </p>
+                            <p>Проверенные области применения</p>
                         </div>
                         <div class="section_5_2_content_body">
                             <ul>
                                 <li>
-                                    <p><b>Redukcja bólu krótkotrwałego u dzieci</b></p>
+                                    <p><b>Снижение болевых ощущений у детей</b></p>
                                 </li>
                                 <li>
-                                    <p>Redukcja bólu chronicznego u osób dorosłych i seniorów</p>
+                                    <p>Снижение хронической боли у взрослых и пожилых людей</p>
                                 </li>
                                 <li>
-                                    <p>Treningi poznawcze dla seniorów</p>
+                                    <p>Когнитивная тренировка для пожилых людей</p>
                                 </li>
                                 <li>
-                                    <p>Percepcja własnego ciała</p>
+                                    <p>Воспринятие собственного тела</p>
                                 </li>
                             </ul>
                         </div>
                     </div>
                     <div class="section_5_2_content_3">
                         <div class="section_5_2_content_title">
-                            <p>Kto może skorzystać z efektów badań?</p> 
+                            <p>Кто может воспользоваться результатами исследований?</p> 
                         </div>
                         <div class="section_5_2_content_body">
                             <ul>
                                 <li>
-                                    <p><b>Dzieci</b></p>
+                                    <p><b>Дети</b></p>
                                 </li>
                                 <li>
-                                    <p>Osoby dorosłe</p>
+                                    <p>Взрослые</p>
                                 </li>
                                 <li>
-                                    <p>Seniorzy</p>
+                                    <p>Пожилые</p>
                                 </li>
                             </ul>
                         </div>
@@ -419,12 +420,12 @@ Zespół naukowców od kilku lat prowadzi badania nad zastosowaniem wirtualnej r
             </h1>
         </section> -->
         <section id="section_7">
-            <h1>Kontakt</h1>
+            <h1>Контакт</h1>
             <div class="section_7_content">
                 <div class="section_7_content_containter_1">
                     <p class="section_7_content_1">VR4Health Lab</p>
-                    <p class="section_7_content_2">Instytut Psychologii, Uniwersytet Wrocławski</p>
-                    <p class="section_7_content_3">ul. J. Wł. Dawida 1, 50-527 Wrocław</p>
+                    <p class="section_7_content_2">Факультет Психологии Вроцлавского Университета</p>
+                    <p class="section_7_content_3">г. Вроцлав, 50-527 ул. J. Wł. Dawida 1</p>
                 </div>
                 <p class="section_7_content_4">magic.spheres@uwr.edu.pl</p>
             </div>
