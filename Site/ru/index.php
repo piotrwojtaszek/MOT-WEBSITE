@@ -4,16 +4,16 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="../style.css">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;400;500;700;900&family=Roboto:wght@100;300;400;500;700&display=swap" rel="stylesheet">
-    <script src="script.js"></script>
+    <script src="../script.js"></script>
     <title>Magic Spheres</title>
 </head>
 <body>
     <div class="header" id="sticky">
         <div class="header_container">
         <a href="#section_0" class="logo-img">
-                <img class="logo" src="media/multi/logo.png"></img>
+                <img class="logo" src="../media/multi/logo.png"></img>
             </a>
             <div class="nav_containter" id="nav_containter">
                 <nav class="nav_links">
@@ -25,10 +25,10 @@
                     <!-- <li><a href="#section_6">Zaufali nam</a></li> -->
                     <a href="#section_7" onclick="toggleMenu()"><li>Kontakt</li></a>
                     <div class="nav_dropdown_language">
-                        <div class="dropbtn"><img src="media/multi/Polish.png" alt=""></div>
+                        <div class="dropbtn"><img src="../media/multi/Russia.png" alt=""></div>
                         <div class="nav_dropdown_language_content">
-                            <a href="ru/index.php"><img src="media/multi/Russia.png" alt="Polish lang"></a>
-                            <a href="en/index.php"><img src="media/multi/English.png" alt="English lang"></a>
+                            <a href="../index.php"><img src="../media/multi/Polish.png" alt="Polish lang"></a>
+                            <a href="../en/index.php"><img src="../media/multi/English.png" alt="English lang"></a>
                         </div>
                     </div>
                 </nav>
@@ -40,7 +40,7 @@
         </div>
     </div>
     <div class="section_0" id="section_0">
-        <video src="media/multi/gameplay_loop.mp4" playsinline autoplay muted loop></video>
+        <video src="../media/multi/gameplay_loop.mp4" playsinline autoplay muted loop></video>
         <div class="bg_color"></div>
         <div class="text_wrap">
             <div class="centered">
@@ -113,7 +113,7 @@
                                             </li>
                                         </ul>
                                     </div>
-                                    <!-- <img src="media/multi/dialog-box.svg" alt="box"> -->
+                                    <!-- <img src="../media/multi/dialog-box.svg" alt="box"> -->
                                     <p class="section_1_1_content_boxes_p">
                                         2017
                                     </p>
@@ -142,7 +142,7 @@
                                 </div>
                                 <div class="section_1_1_content_boxes_3">
                                     <div class="section_1_1_content_boxes_3_containter">
-                                        <img src="media/multi/MagicSpheresLogo.png" alt="logo">
+                                        <img src="../media/multi/MagicSpheresLogo.png" alt="logo">
                                     </div>
                                     <p class="section_1_1_content_boxes_p">
                                         2021
@@ -150,8 +150,8 @@
                                 </div>
                             </div>
                             <div class="section_1_1_timeline_svg">
-                                <img src="media/multi/timeline-vertical.svg" alt="" class="timeline_vertical">
-                                <img src="media/multi/timeline.svg" alt="" class="timeline_horizontal">
+                                <img src="../media/multi/timeline-vertical.svg" alt="" class="timeline_vertical">
+                                <img src="../media/multi/timeline.svg" alt="" class="timeline_horizontal">
                             </div>
                         </div>
                 </div>
@@ -245,7 +245,7 @@
                 <div class="section_3_2_content">
                     <div class="section_3_2_content_1">
                         <div class="section_3_2_content_1_icon">
-                            <img src="media/multi/MagicSpheresLogo.png" alt="Magic_Spheres_Logo">
+                            <img src="../media/multi/MagicSpheresLogo.png" alt="Magic_Spheres_Logo">
                         </div>
                         <div class="section_3_2_content_1_store">
                         <a href='https://play.google.com/store/apps/details?id=com.UWr.MagicSpheres&hl=pl&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
@@ -273,7 +273,7 @@
             <div class="section_4_2_content">
                     <div class="section_4_2_content_1">
                         <div class="section_4_2_content_1_container">
-                        <img src="media/multi/syringe_512.png" alt="">
+                        <img src="../media/multi/syringe_512.png" alt="">
                         <ul>
                             <li><p>Szczepienie</p></li>
                             <li><p>Pobranie krwi</p></li>
@@ -286,7 +286,7 @@
                         </p>
                     </div>
                     <div class="section_4_2_content_2">
-                        <img src="media/multi/cry_baby_1024.png" alt="">
+                        <img src="../media/multi/cry_baby_1024.png" alt="">
                         <p>
                         Jak czuje się dziecko podczas zabiegu?
                         </p>
@@ -320,21 +320,21 @@
                     </div>
                     <div class="section_4_3_content_cotainter">
                         <div class="section_4_3_content_cotainter_1">
-                            <img src="media/multi/child_mom.png" alt="child-and-mom">
+                            <img src="../media/multi/child_mom.png" alt="child-and-mom">
                             <p>
                                 Niemowlę: karmienie piersią podczas zabiegu lub podanie słodkiego płynu do picia np. z sacharozą
                             </p>
                         </div>
                         <div class="section_4_3_content_cotainter_2">
-                            <img src="media/multi/chair.png" alt="chair">
+                            <img src="../media/multi/chair.png" alt="chair">
                             <p>Komfortowa pozycja podczas zabiegu</p>
                         </div>
                         <div class="section_4_3_content_cotainter_3">
-                            <img src="media/multi/krem.png" alt="krem">
+                            <img src="../media/multi/krem.png" alt="krem">
                             <p>Znieczulenie miejscowe</p>
                         </div>
                         <div class="section_4_3_content_cotainter_4">
-                            <img src="media/multi/MagicSpheresLogo.png" alt="">
+                            <img src="../media/multi/MagicSpheresLogo.png" alt="">
                             <p>Dobrana do wieku dystrakcja uwagi</p>
                         </div>
                     </div>

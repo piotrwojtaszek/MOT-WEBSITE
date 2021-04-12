@@ -98,23 +98,22 @@ a{
 }
 
 .nav_dropdown_language_content{
+    transform: translate(-25%, 0%);
+    padding: 0 5px;
     display: none;
     position: absolute;
-    color: black;
     text-decoration: none;
     background-color: #002e63;
     z-index: 1;
-}
-
-.nav_dropdown_language_content a{
-
-    border-radius: 50%;
+    border-radius: 10px;
 }
 
 .nav_dropdown_language_content img{
+    margin:10px 0;
     padding: 5px;
     height: 60px;
     width: 60px;
+    border-radius: 50%;
 }
 
 .nav_dropdown_language:hover .nav_dropdown_language_content{
