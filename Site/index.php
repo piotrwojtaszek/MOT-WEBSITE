@@ -11,7 +11,7 @@
 <body>
     <div class="header" id="sticky">
         <div class="header_container">
-        <a href="#section_0">
+        <a href="#section_0" class="logo-img">
                 <img class="logo" src="media/multi/logo.png"></img>
             </a>
 

@@ -15,7 +15,6 @@ html {
     margin:0;
     height: 60px;
     background-color: #002e63;
-
 }
 
 .header_mail
@@ -954,6 +953,11 @@ html {
         padding: 0;
         height: 100%;
     }
+
+    .logo-img{
+        height: 100%;
+    }
+    
     .logo img{
         box-sizing: border-box;
         height: 100%;
