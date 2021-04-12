@@ -4,7 +4,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="../style.css">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;400;500;700;900&family=Roboto:wght@100;300;400;500;700&display=swap" rel="stylesheet">
     <title>Magic Spheres</title>
 </head>
@@ -24,9 +24,9 @@
                     <!-- <li><a href="#section_6">Zaufali nam</a></li> -->
                     <a href="#section_7" onclick="toggleMenu()"><li>Kontakt</li></a>
                     <div class="nav_dropdown_language">
-                        <div class="dropbtn"><img src="media/multi/Polish.png" alt=""></div>
+                        <div class="dropbtn"><img src="media/multi/English.png" alt=""></div>
                         <div class="nav_dropdown_language_content">
-                            <a href="#"><img src="media/multi/Polish.png" alt="Polish lang"></a>
+                            <a href="index.php"><img src="media/multi/Polish.png" alt="Polish lang"></a>
                             <a href="en/index.php"><img src="media/multi/English.png" alt="English lang"></a>
                         </div>
                     </div>

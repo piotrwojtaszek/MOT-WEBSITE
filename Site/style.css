@@ -61,6 +61,8 @@ a{
 .nav_links{
     list-style: none;
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .nav_links a li{
@@ -80,6 +82,43 @@ a{
 
 .hamburger_menu{
     display: none;
+}
+
+.nav_dropdown_language{
+    position: relative;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.dropbtn img{
+    width: 30px;
+    height: 30px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.nav_dropdown_language_content{
+    display: none;
+    position: absolute;
+    color: black;
+    text-decoration: none;
+    background-color: #002e63;
+    z-index: 1;
+}
+
+.nav_dropdown_language_content a{
+
+    border-radius: 50%;
+}
+
+.nav_dropdown_language_content img{
+    padding: 5px;
+    height: 60px;
+    width: 60px;
+}
+
+.nav_dropdown_language:hover .nav_dropdown_language_content{
+    display: block;
 }
 
 .section_0{
@@ -967,32 +1006,37 @@ a{
 
     .nav_links{
         position: relative;
-        height: 100vh;
-        width: 100vw;
+        height: 100%;
+        width: 100%;
         flex-direction: column;
         position: absolute;
         max-width: none;
         max-height: none;
-        z-index: -1;
-        justify-content: space-evenly;
         align-items: center;
-        right: 0;
-        top:20;
+        justify-content: center;
         background: rgb(0,46,99);
-        background: linear-gradient(90deg, rgba(0,46,99,0.75) 0%, rgba(0,46,99,0.99) 25%, rgba(0,46,99,0.99) 75%, rgba(0,46,99,0.75) 100%);
+        background: linear-gradient(90deg, rgba(0,46,99,0.75) 0%, rgba(0,46,99,0.99) 10%, rgba(0,46,99,0.99) 90%, rgba(0,46,99,0.75) 100%);
     }
 
-    .header nav li a{
-        width: 300px;
-        border-bottom: oldlace;
+    .header nav a{
+        font-size: 2em;
+        margin-top: 20px;
+        margin-bottom: 20px;
     }
 
     .nav_containter.active{
         display: block;
+        position: absolute;
+        height: 100vh;
+        width: 100vw;
+        right: 0;
+        top:0;
+        z-index: -1;
     }
 
     .nav_containter{
         display: none;
+        overflow: hidden;
     }
 
     .hamburger_menu{

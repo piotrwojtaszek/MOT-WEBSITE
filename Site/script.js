@@ -18,6 +18,7 @@ $.getJSON("links.json", function(json) {
 });
 
 function toggleMenu(){
-    console.log("menu");
     document.getElementById("nav_containter").classList.toggle("active");
+    // document.getElementById("hamburger_menu_close").classList.toggle("active");
+    // &times;
 }
