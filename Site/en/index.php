@@ -27,8 +27,8 @@
                     <div class="nav_dropdown_language">
                         <div class="dropbtn"><img src="../media/multi/English.png" alt=""></div>
                         <div class="nav_dropdown_language_content">
-                            <a href="../index.php"><img src="../media/multi/Polish.png" alt="Polish lang"></a>
-                            <a href="../ru/index.php"><img src="../media/multi/Russia.png" alt="Russia lang"></a>
+                            <a href="../"><img src="../media/multi/Polish.png" alt="Polish lang"></a>
+                            <a href="../ru"><img src="../media/multi/Russia.png" alt="Russia lang"></a>
                         </div>
                     </div>
                 </nav>
