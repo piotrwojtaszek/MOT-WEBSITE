@@ -29,6 +29,7 @@
                         <div class="nav_dropdown_language_content">
                             <a href="../"><img src="../media/multi/Polish.png" alt="Polish lang"></a>
                             <a href="../en"><img src="../media/multi/English.png" alt="English lang"></a>
+                            <a href="../es"><img src="../media/multi/Espaniol.png" alt="Spanish lang"></a>
                         </div>
                     </div>
                 </nav>
@@ -287,7 +288,7 @@
                         </p>
                     </div>
                     <div class="section_4_2_content_2">
-                        <img src="../media/multi/cry_baby_1024.png" alt="">
+                        <img src="../media/multi/cry_baby_1024_ru.png" alt="">
                         <p>
                         Как себя чувствует ребёнок во время процедуры?
                         </p>

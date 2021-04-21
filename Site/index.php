@@ -29,6 +29,7 @@
                         <div class="nav_dropdown_language_content">
                             <a href="ru"><img src="media/multi/Russia.png" alt="Polish lang"></a>
                             <a href="en"><img src="media/multi/English.png" alt="English lang"></a>
+                            <a href="es"><img src="media/multi/Espaniol.png" alt="Spanish lang"></a>
                         </div>
                     </div>
                 </nav>
