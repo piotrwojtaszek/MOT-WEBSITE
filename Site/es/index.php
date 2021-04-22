@@ -27,9 +27,9 @@
                     <div class="nav_dropdown_language">
                         <div class="dropbtn"><img src="../media/multi/Espaniol.png" alt=""></div>
                         <div class="nav_dropdown_language_content">
-                            <a href="ru"><img src="../media/multi/Russia.png" alt="Polish lang"></a>
-                            <a href="en"><img src="../media/multi/English.png" alt="English lang"></a>
-                            <a href="es"><img src="../media/multi/Polish.png" alt="Polish lang"></a>
+                            <a href="../ru"><img src="../media/multi/Russia.png" alt="Polish lang"></a>
+                            <a href="../en"><img src="../media/multi/English.png" alt="English lang"></a>
+                            <a href="../"><img src="../media/multi/Polish.png" alt="Polish lang"></a>
                         </div>
                     </div>
                 </nav>
@@ -56,7 +56,7 @@
                         Descarga la versión completa del juego
                         </div>
                         <a href='https://play.google.com/store/apps/details?id=com.UWr.MagicSpheres&hl=pl&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
-                            <img class="download_button" alt='pobierz z Google Play' src='https://play.google.com/intl/pl/badges/static/images/badges/pl_badge_web_generic.png'/>
+                            <img class="download_button" alt='Disponible en Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/es_badge_web_generic.png'/>
                         </a>
                     </div>
                     <a href="#section_2">
@@ -328,15 +328,15 @@ Los efectos de estudios previamente realizados por el laboratorio de VR4Health  
                             </p>
                         </div>
                         <div class="section_4_3_content_cotainter_2">
-                            <img src="media/multi/chair.png" alt="chair">
+                            <img src="../media/multi/chair.png" alt="chair">
                             <p>Una posición cómoda durante el procedimiento</p>
                         </div>
                         <div class="section_4_3_content_cotainter_3">
-                            <img src="media/multi/krem.png" alt="krem">
+                            <img src="../media/multi/krem.png" alt="krem">
                             <p>Anestesia local</p>
                         </div>
                         <div class="section_4_3_content_cotainter_4">
-                            <img src="media/multi/MagicSpheresLogo.png" alt="">
+                            <img src="../media/multi/MagicSpheresLogo.png" alt="">
                             <p>Distracción de la atención apta para niños</p>
                         </div>
                     </div>
