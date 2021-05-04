@@ -251,8 +251,8 @@ The effects of VR4Health Lab’s earlier studies indicate great potential of our
                             <img src="../media/multi/MagicSpheresLogo.png" alt="Magic_Spheres_Logo">
                         </div>
                         <div class="section_3_2_content_1_store">
-                        <a href='https://play.google.com/store/apps/details?id=com.UWr.MagicSpheres&hl=pl&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
-                            <img class="section_3_2_content_1_store_button" alt='pobierz z Google Play' src='https://play.google.com/intl/pl/badges/static/images/badges/pl_badge_web_generic.png'/>
+                        <a href='https://play.google.com/store/apps/details?id=com.UWr.MagicSpheres&hl=en&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
+                            <img class="section_3_2_content_1_store_button" alt='pobierz z Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/>
                         </a>
                         </div>
                     </div>
