@@ -55,7 +55,7 @@
                         <div class="download_text">
                         Download the full version of the game
                         </div>
-                        <a href='https://play.google.com/store/apps/details?id=com.UWr.MagicSpheres&hl=pl&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
+                        <a href='https://play.google.com/store/apps/details?id=com.UWr.MagicSpheres&hl=en&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
                             <img class="download_button" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/>
                         </a>
                     </div>
@@ -172,7 +172,7 @@ The effects of VR4Health Lab’s earlier studies indicate great potential of our
                         </div>
                         <div class="section_1_2_content_child2">
                             <p>
-                            Researchers are still testing if the application of VR is more effective than using other digital technologies <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="8"></span>, <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="9"></span>, that is why the game was designed in a 2D environment.<b> Pain relief effectiveness </b>- during needle procedures - confirmed for games in VR <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="10"></span>, <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="11"></span>,<br> <b>as well as when using other digital technologies</b> <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="12"></span>, <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="13"></span>.
+                            Researchers are still testing if the application of VR is more effective than using other digital technologies <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="8"></span>, <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="9"></span>, that is why the game was designed in a 2D environment.<b> Pain relief effectiveness </b>- during needle procedures - was confirmed for games in VR <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="10"></span>, <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="11"></span>,<br> <b>as well as when using other digital technologies</b> <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="12"></span>, <span onclick="tooglePopupOn(this.id)" class="link-toogle" id="13"></span>.
                             </p>
                         </div>
                         <div class="section_1_2_content_child3">

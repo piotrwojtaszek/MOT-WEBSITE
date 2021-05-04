@@ -55,7 +55,7 @@
                         <div class="download_text">
                         Скачай полную версию игры
                         </div>
-                        <a href='https://play.google.com/store/apps/details?id=com.UWr.MagicSpheres&hl=pl&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
+                        <a href='https://play.google.com/store/apps/details?id=com.UWr.MagicSpheres&hl=ru&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
                             <img class="download_button" alt='Доступно в Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/ru_badge_web_generic.png'/>
                         </a>
                     </div>
