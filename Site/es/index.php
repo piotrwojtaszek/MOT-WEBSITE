@@ -191,7 +191,7 @@ Los efectos de estudios previamente realizados por el laboratorio de VR4Health  
                     </h1>
                 </div>
                 <div class="section_2_1_youtube_video">
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/Wf3ryp1BzgM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/xEek_1l016A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
             </div>
         </section>
